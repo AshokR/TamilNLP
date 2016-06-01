@@ -18,5 +18,5 @@ RDRPOSTagger என்ற கட்டற்ற சொல்வகை குற�
 2. இந்த ஆவணங்கள் அனைத்தும் லினக்ஸ் (உபுண்டு 14.04) அடிப்படையானவை. 
 3. நீங்கள் விண்டோஸ் பயன்படுத்துகிறீர்கள் எனில், அதை அமைப்பது எப்படி என்று ஒரு சில வரிகளை எழுதினால் மற்ற விண்டோஸ் பயனர்களுக்கு மிகவும் உதவியாக இருக்கும்.
 
-**Acknowledgement**: Many thanks to Dat Quoc Nguyen and his team at the Department of Computing, Macquarie University, Sydney, Australia for providing this software as open source. And particularly for his super fast help with resolving the issues that I ran into while trying to train this tool for Tamil tagging.
+**Acknowledgement**: Many thanks to Dat Quoc Nguyen and his team at the Department of Computing, Macquarie University, Sydney, Australia for providing RDRPOSTagger software as open source. And particularly for his super fast help with resolving the issues that I ran into while trying to train this tool for Tamil tagging.
 
