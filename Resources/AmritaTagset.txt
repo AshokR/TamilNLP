@@ -1,0 +1,30 @@
+<ADJ>	---------->	ADJECTIVE - describe or modify a noun - நல்ல, கடந்த, சரியான, பெரும்பாலான, மிகச்சிறந்த, ஒழுக்கமான, எல்லா, உயர்ந்த
+<ADV>	---------->	ADVERB -  describe or modify a verb, adj or other adv அப்படி, அபாரமாக, அவசரமாக, அவ்வாறு, உடனடி, எங்கிருந்து, இங்கு
+<CNJ>	---------->	CONJUNCTION - joins clauses or sentences or words இடைச்சொல் - ஆக, அதாவது, ஆனால், மேலும், என, அல்லது, தவிரவும்
+<COM>	---------->	COMPLEMENTIZER - words used to turn a clause into the subject or object என்பவர், என்பது, என்று, என்றால், என்னும், உட்பட
+<COMM>	---------->	COMMA
+<CRD>	---------->	CARDINALS ஒன்று, ஒன்றை, ஒன்றும், இரண்டு, மூன்று
+<CVB>	---------->	CONDITIONAL VERB பார்ப்போமானால், வேண்டுமானால், வந்தால், அணியாவிட்டால், உருவாக்கினால், இருந்தாலும்
+<DET>	---------->	DETERMINER -  occurs with a noun to express the reference of that noun in the context அந்த, இந்த, ஒரு, ஒர்
+<DOT>	---------->	DOT
+<ECH>	---------->	ECHO WORDS - a particular kind of reduplication பாம்பு கீம்பு
+<EMP>	---------->	EMPHASIS தான், தானே
+<INT>	---------->	INTENSIFIER அதிக, கூட, நிறைய, மிகவும், மிக்க, பெரும், மாபெரும், வெகு 
+<NN>	---------->	NOUN - persons, places and things பெயர்ச்சொல்
+<NNC>	---------->	COMPOUND NOUN - formed by combining adjectives and pronouns - தனிமனிதனின், குடிநீர், பொதுநல, பெருவெற்றித்
+<NNP>	---------->	PROPER NOUN
+<NNPC>	---------->	COMPOUND PROPER NOUN - : Proper nouns that consist of two or more words ரிக்கி பாண்டிங், தென் அமெரிக்க, சாவோ பவுலோ
+<NNQ>	---------->	QUANTITY NOUN அத்தனை, எல்லாம், ஒருசில, சற்றுப், பலவும், சில
+<ORD>	---------->	ORDINALS - tells the position of something in a list முதல், இரண்டாம், இரண்டாவது, 15வது, பதினெட்டாம், 19-ஆம்
+<PPO>	---------->	POSTPOSITION - பின்னிடைச்சொல் - links a noun to another word - போது, கூடிய, முதல், வரை, மட்டும், பின்
+<PRP>	---------->	PERSONAL PRONOUN - replaces a noun - அதற்கும், நாம், நம், நமக்கு, இவரால், இதற்கு, தங்களின், அவர்கள், இதன்
+<QTF>	---------->	QUANTIFIER இவ்வளவு, கொஞ்சம், சிறிது, சிறிய, பெரிய, பெரு
+<QW>	---------->	QUESTION WORD யார், எப்படி, என்ன, எப்போது, முடிகிறதா, ஏன், கேட்கமுடியுமா, எதிர்பார்க்கமுடியுமா, அல்லவா, யார், எப்படி
+<QM>	---------->	QUESTION MARK
+<RDW>	---------->	REDUPLICATION WORD - இரட்டைக்கிளவி - அந்தந்த, அவரவர், ஆண்டாண்டு, திரும்பத்திரும்ப, மாறிமாறி, மெல்லமெல்ல, விட்டுவிட்டு
+<VAX>	---------->	VERB AUXILARIES கிடைக்கும், வேண்டும், சரியில்லை, முடியாது, முடியும், நடக்காது, இல்லை, உண்டு
+<VBG>	---------->	VERBAL GERUND&PARTICIPLE NOUN - noun made from a verb by adding "ing". நடந்ததை, செய்வது, உருவாக்குவது, தேடுவதை
+<VF>	---------->	VERB FINITE - action or state வினைச்சொல் - உருவாக்கினார்கள், காட்டினார், வியக்கிறோம், மறுக்கிறோம், உற்றுபாருங்கள்
+<VINT>	---------->	VERB INFINITIVE - உருவாக்க, நிகழ, இருக்க, செல்லக், வளர, தங்க, பார்க்க, யோசிக்க
+<VNAJ>	---------->	VERB NON-FINITE ADJECTIVE - does not show any tense, person or number - கேட்கும், பெறும், அளித்த, செயல்படுத்தும்
+<VNAV>	---------->	VERB NON-FINITE ADVERB - தராமல், கடந்து, மாற்றி, சிந்தித்து, எடுத்து, சொல்லிக்கொண்டு, போய்
