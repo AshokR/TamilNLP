@@ -14,10 +14,10 @@ generatedlexicon = os.path.join(os.path.dirname(__file__), 'Resources/GeneratedL
 DICT = readDictionary(generatedlexicon)
 
 # Load the file that contains the text to be tagged
-tobetagged = nltk.data.load('/home/ashok/TamilCorpora/Fiction/WikiSource.txt')
+tobetagged = nltk.data.load('/your/folder/tobetagged.txt')
 
 # Open the target file for writing the tagged text
-targetfile = open('/home/ashok/Machlearn/Sentseg/test_sentences.txt', 'wt')
+targetfile = open('/your/folder/tagged.txt', 'wt')
 
 # Segment the text into sentences and then into tokens (words and punctuation)
 sentencesegment = os.path.join(os.path.dirname(__file__), 'Resources/SentenceSegment_Python2.pickle')
