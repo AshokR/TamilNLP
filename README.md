@@ -10,7 +10,7 @@ RDRPOSTagger என்ற கட்டற்ற சொல்வகை குற�
 1. RDRPOSTagger பதிவிறக்கம் செய்தல் மற்றும் நிறுவுதல் 
 2. இந்த தளத்தில் இருந்து குறியீடு செய்யும் விதிகள் கோப்பு (.RDR) மற்றும் அகராதி கோப்பு (.DICT) பதிவிறக்கம் செய்தல்
 3. கட்டளை வரியில் (command line) குறியீடு செய்தல்: Your tobetagged.txt file should be in the same format as the rawtest file in the data directory.
-Change directory to where you have installed RDRPOSTagger.py and then run this coomand:
+Change directory to where you have installed RDRPOSTagger.py and then run this command:
 
 `python RDRPOSTagger.py tag /path/TrainedModel.RDR /path/GeneratedLexicon.DICT /path/tobetagged.txt`
 
