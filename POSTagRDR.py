@@ -38,7 +38,7 @@ for sent in seg:
     sent = re.sub(r':', ',', sent)
     # Add a space in front of the sentence ending dot - tagging is done based on whitespace
     sent = re.sub(r'\.\Z', ' .', sent)
-    # Add a space in front of the sentence ending dot - tagging is done based on whitespace
+    # Add a space in front of the sentence ending ? - tagging is done based on whitespace
     sent = re.sub(r'\?', ' ?', sent)
     # Add a space in front of the paragraph ending dot - tagging is done based on whitespace
     sent = re.sub(r'\.\n', ' .', sent)
