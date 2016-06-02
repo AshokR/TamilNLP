@@ -32,8 +32,14 @@ for sent in seg:
     sent = re.sub(r'\'', '', sent)
     # Change all ! to dot - POS tagger is unable to handle !
     sent = re.sub(r'!', '.', sent)
+    # Change all ; to , - POS tagger is unable to handle ;
+    sent = re.sub(r';', ',', sent)
+    # Change all : to , - POS tagger is unable to handle :
+    sent = re.sub(r':', ',', sent)
     # Add a space in front of the sentence ending dot - tagging is done based on whitespace
     sent = re.sub(r'\.\Z', ' .', sent)
+    # Add a space in front of the sentence ending dot - tagging is done based on whitespace
+    sent = re.sub(r'\?', ' ?', sent)
     # Add a space in front of the paragraph ending dot - tagging is done based on whitespace
     sent = re.sub(r'\.\n', ' .', sent)
     # Add a space in front of every comma - tagging is done based on whitespace
