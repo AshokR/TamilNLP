@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 import re
+import tamil
 
 # This is a naive text summarization algorithm
 # Created by Shlomi Babluki
@@ -22,11 +23,13 @@ class SummaryTool(object):
 
     # Caculate the intersection between 2 sentences
     def sentences_intersection(self, sent1, sent2):
-
+        
         # split the sentence into words/tokens
-        s1 = set(sent1.split(" "))
-        s2 = set(sent2.split(" "))
-
+        # s1 = set(sent1.split(" "))
+        # s2 = set(sent2.split(" "))
+        s1 = set(tamil.utf8.get_letters(sent1))
+        s2 = set(tamil.utf8.get_letters(sent2))
+        
         # If there is not intersection, just return 0
         # if (len(s1) + len(s2)) == 0:
         if len(s1.intersection(s2)) == 0:
@@ -39,7 +42,8 @@ class SummaryTool(object):
     # We'll use the formatted sentence as a key in our sentences dictionary
     def format_sentence(self, sentence):
         # sentence = re.sub(r'\W+', '', sentence)       # [\u0B80-\u0BFF]
-        sentence = re.sub(r'[\u0B80-\u0BFF]', '', sentence)
+        sentence = re.sub(r'\s+', '', sentence)
+        sentence = re.sub(r'\d+','',sentence)
         # print sentence
         return sentence
 
@@ -73,7 +77,10 @@ class SummaryTool(object):
                 if i == j:
                     continue
                 score += values[i][j]
-            sentences_dic[self.format_sentence(sentences[i])] = score
+            kw = self.format_sentence(sentences[i])
+            if len(kw) != 0:
+                sentences_dic[kw] = score
+        
         return sentences_dic
 
     # Return the best sentence in a paragraph
@@ -117,15 +124,12 @@ class SummaryTool(object):
 
         return ("\n").join(summary)
 
-
 # Main method, just run "python summary_tool.py"
 def main():
-
-
     title = u"""
 குத்துச்சண்டை ஜாம்பவான் முகமது அலி மறைவு
     """
-
+    
     content = u"""
 அமெரிக்காவின் முன்னாள் ஹெவி வெயிட் குத்துச்சண்டை வீரர் முகமது அலி காலமானார். அவருக்கு வயது 74. சுவாசக்கோளாறு காரணமாக முகமது அலி மரணமடைந்ததாக அவரது குடும் பத்தினர் வெளியிட்டுள்ள அறிக்கையில் கூறியுள்ளனர்.
 உலக குத்துச்சண்டை சாம்பியன் பட்டத்தை 3 முறை வென்று சாதனை படைத்தவர் முகமது அலி. அமெரிக்காவின் கென்டகி மாநிலத்தில் 1942-ம் ஆண்டு பிறந்த முகமது அலியின் இயற்பெயர் காசியஸ் க்ளே. தனது 18 வயதில் குத்துசண்டை களத்தில் இறங்கிய முகமது அலி 1960-ல் ஹெவிவெயிட் ஒலிம்பிக் தங்கப் பதக்கத்தை பெற்றார். இதைத்தொடர்ந்து குத்துச்சண்டை என்றாலே முகமது அலி என்று சொல்லும் அளவுக்கு புகழ்பெற்றார். குத்துச்சண்டை களத்தில் மட்டுமின்றி அமெரிக்காவில் அக்காலத்தில் தீவிரமாக பரவியிருந்த இனவெறிக்கு எதிராகவும் அவர் போராடினார். அவர் குவிக்கும் வெற்றிகள் கறுப்பின மக்களிடையே புதிய எழுச்சியை ஏற்படுத்தின.
@@ -155,6 +159,8 @@ def main():
     print(u"Original Length %s" % (len(title) + len(content)))
     print(u"Summary Length %s" % len(summary))
     print(u"Summary Ratio: %s" % (100 - (100 * (len(summary) / (len(title) + len(content))))))
+    import pprint
+    pprint.pprint(sentences_dic)
 
 if __name__ == u'__main__':
     main()
