@@ -5,6 +5,7 @@
 #### [தமிழ் உரை சுருக்கம் செய்யும் நிரல்](https://github.com/AshokR/TamilNLP/wiki/Text-Summary-Extractor)
 #### [தமிழ் வாக்கிய பிரிப்பான்](https://github.com/AshokR/TamilNLP/wiki/Tamil-Sentence-Splitter)
 #### [அடிக்கடி பயன்படுத்தும் வார்த்தைகள் (Stopwords)](https://github.com/AshokR/TamilNLP/wiki/Stopwords)
+#### [எழுத்துப்பிழை திருத்தி](https://github.com/AshokR/TamilNLP/wiki/Spell-Checker)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
