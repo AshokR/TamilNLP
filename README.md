@@ -4,7 +4,7 @@
 #### [தமிழ் சொல்வகை குறியிடும் கருவி (POS tagger)](https://github.com/AshokR/TamilNLP/wiki/POS-Tagger)
 #### [தமிழ் உரை சுருக்கம் செய்யும் நிரல்](https://github.com/AshokR/TamilNLP/wiki/Text-Summary-Extractor)
 #### [தமிழ் வாக்கிய பிரிப்பான்](https://github.com/AshokR/TamilNLP/wiki/Tamil-Sentence-Splitter)
-#### [அடிக்கடி பயன்படுத்தும் வார்த்தைகள் (Stopwords)](https://github.com/AshokR/TamilNLP/wiki/Stopwords)
+#### [அடிக்கடி பயன்படுத்தும் இடைச்சொற்கள் (Stopwords)](https://github.com/AshokR/TamilNLP/wiki/Stopwords)
 #### [சொற்பிழைத்திருத்தி](https://github.com/AshokR/TamilNLP/wiki/Spell-Checker)
 ---
 Copyright © 2016 இரா. அசோகன்
