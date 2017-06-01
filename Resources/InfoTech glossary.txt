@@ -1,0 +1,572 @@
+a bit	கொஞ்சம்
+AbiWord	அபிவேர்ட்
+access	அணுகல்
+a couple more	மேலும் ஓரிரண்டு
+a couple of	இரண்டு மூன்று
+activist	செயல் திறனாளர்
+admire	மெச்சு
+Adobe	அடோபி
+advertising	விளம்பரம்
+advocate	ஆதரவாளர்
+agile	தகவெளிமை
+alchemist	ரசவாதி
+Alfresco	ஆல்ஃப்ரெஸ்கோ
+algorithm	வினைச்சரம்
+all but necessitate	அவசியமாகிறது
+Android	ஆண்ட்ராய்டு
+applet	குறுஞ்செயலி
+applicant	விண்ணப்பதாரர்
+application	செயலி
+approach	அணுகுமுறை
+app	செயலி
+arms-length	நேரடி ஈடுபாடு இல்லாத
+asset	முன்வாய்ப்பு
+asynchronous	ஒத்தியங்கா
+Audacity	ஆடாசிட்டி
+augment	வலுவாக்கு
+Austin	ஆஸ்டின்
+authentication	சான்றுறுதி
+automation	தானியக்கம்
+autonomy	சுய உரிமை
+awesome	அசத்தல்
+a year on	ஒரு ஆண்டு ஆனபின்
+backup	காப்புநகல்
+backup	காப்புப்படி
+Bay Area	விரிகுடா பகுதி
+Bazaar	சந்தை
+beginner	கற்றுக்குட்டி
+beginner	பயிலுநர்
+being a pain	பெரும் தொல்லை
+benevolent dictatorship	கருணையான சர்வாதிகாரம்
+Benevolent dictator	கருணையான சர்வாதிகாரி
+best practice	சிறந்த நடைமுறை
+Be vocal	அமைதியாகிவிட வேண்டாம்
+big data	பெருந்தரவு
+big iron	வழங்கி போன்ற திறன்மிகு கணினி
+black box	ஒளி ஊடுருவாத
+black box	வெளியிலிருந்து பார்த்தால் எதுவுமே தெரியாத
+blog	வலைப்பதிவு
+blueprint	செயல்திட்டம்
+bot	தானியங்கி
+bounce off	விட்டுவிட்டு சென்றுவிடு
+breeze	மிக எளிது
+browser	உலாவி
+bug tracker	வழுத்தடம் கண்காணிப்பு
+bug tracker	வழுத்தளம்
+bug	வழு
+build traction	வாங்கக்கூடியவர்களிடம் பரவச்செய்
+build	கட்டியெழுப்பு
+bureaucratic	அதிகாரத்துவ
+burgeon	விரைவாக வளர்
+by its nature	இயல்பாகவே
+By virtue of	வேண்டியிருப்பதால்
+calculus	இயற்கணிதம்
+calendar	நாட்காட்டி
+California	கலிபோர்னியா
+campus	வளாகம்
+candidate	தேர்வர்
+capital	மூலதனம்
+career	வேலைவாழ்க்கை
+cartoon	கேலிச்சித்திரம்
+catalyzer	ஊக்கி
+Cathedral	பேராலயம்
+cause	இலக்கு
+challenge	சவால்
+characteristic	சிறப்பியல்பு
+checking	சரிபார்த்தல்
+check out	குறித்து வெளியெடு
+citizen	குடிமகன்
+classics	செவ்வியல்
+click	சொடுக்கு
+client	வாடிக்கையாளர்
+clone	நகலி
+cloud computing	மேகக் கணிமை
+CMS	உள்ளடக்க மேலாண்மைக் கட்டகம்
+code	குறியீடு
+co-educational	இணை கல்வி
+Cofounder	நிறுவனரில் ஒருவர்
+cognition	அறியும் ஆற்றல்
+collaboration	இணைவு ஆக்கம்
+column	பத்தி
+command-and-control	கட்டளை மற்றும் கட்டுப்பாடு
+commitment	அர்ப்பணிப்பு
+commitment	ஈடுபாடு
+committer	நேரடியாக மூல நிரலை மாற்றும் உரிமை பெற்றவர்
+communication	தகவல் பரிமாற்றம்
+community	சமூகம்
+completely lost	தலைகால் புரியவில்லை
+complimentary	துணை
+computer science program	கணினி அறிவியல் துறை
+computer	கணினி
+Conclusion	முடிவுரை
+Conference	மாநாடு
+configuration	கட்டமைப்பு
+connections you make	அறிமுகம் ஆனவர்கள்
+connection	தொடர்பு
+consensus	கருத்தொற்றுமை
+constructive	ஆக்கப்பூர்வமான
+consumer	நுகர்வோர்
+contact	தொடர்பு கொள்
+content management system	உள்ளடக்க மேலாண்மை அமைப்பு
+continuous integration	தொடர்ச்சியான ஒருங்கிணைப்பு
+contribute	பங்களி
+contributor	பங்களிப்பாளர்
+convention	மாநாடு
+co-ordinator	ஒருங்கிணைப்பாளர்
+copyright	பதிப்புரிமை
+copy	நகலெடு
+corporation	பெருநிறுவனம்
+cost-effective	பயனுள்ள செலவு
+counterbalance	எதிரீடு
+creativity	படைப்பாற்றல்
+critical	மிக முக்கியமானது
+cross examination	குறுக்கு விசாரணை
+culture	கலாச்சாரம்
+culture	பண்பாடு
+customize	விருப்பமைவு செய்
+cutting edge technology	அதிநவீன தொழில்நுட்பம்
+cyborg	பாதி இயந்திரம் பாதி மனிதன்
+data center	தரவு மையம்
+datacenter	தரவு மையம்
+data	தரவு
+dedicate	அர்ப்பணி
+default	இயல்புநிலை
+definition	வரையறை
+democracy	மக்களாட்சி
+design	வடிவமைப்பு
+desktop publishing	மேசைப் பதிப்பு
+desktop	காரியத்தளம்
+developer	நிரலாளர்
+diagnose	மூலகாரணம் அறி
+diagram	விளக்கப்படம்
+digital marketing	இணைய விற்பனை
+Digital Rights Management	எண்முறை உரிமைகள் மேலாண்மை
+discipline	கட்டுப்பாடு
+distilled	காய்ச்சி வடிகட்டிய
+distraction	கவனச் சிதறல்
+distract	திசை திருப்பு
+distribution	விநியோகம்
+distro	விநியோகம்
+distro	வெளியீடு
+diversity	பன்முகத்தன்மை
+documentary film	ஆவணப்படம்
+documentation	ஆவணங்கள்
+Document Management System	ஆவண மேலாண்மை அமைப்பு
+download	பதிவிறக்கம்
+down the garden path	தவறான வழி
+down-to-earth	யதார்த்தம்
+driven	உந்தப்படு
+Drupal	ட்ரூபல்
+economic	பொருளாதார
+ecosystem	சுற்றுச்சூழல்
+edge case	வழக்கத்திற்கு மாறான பயன்முறை
+educator	பயிற்றுநர்
+Efficiency	பயன்திறன்
+email	மின்னஞ்சல்
+emerge	மேலெழு
+Empirical	அனுபவபூர்வம்
+employ yourself	சுயதொழிலைத் தொடங்கு
+encourage	ஊக்குவி
+engineering	பொறியியல்
+engineer	பொறியாளர்
+enhance	மேம்படுத்து
+enough eyeballs	அனேகம் பேர்
+enrich	செறிவூட்டு
+enthusiast	ஆர்வலர்
+entrepreneur	தொழில்முனைவர்
+entry barrier	நுழைவுத் தடை
+environment	சூழல்
+equation	சமன்பாடு
+Evangelist	ஆர்வப் பரப்புநர்
+even remotely	சிறிதளவாவது
+event handler	நிகழ்வுக் கையாளி
+event	நிகழ்வு
+evolution	பரிணாம வளர்ச்சி
+example	எடுத்துக்காட்டு
+Exchange	எக்ஸ்சேஞ்ச்
+exchange	பரிமாற்றம்
+expectation	எதிர்பார்ப்பு
+expert	நிபுணர்
+expert	வல்லுநர்
+extend	நீட்டி
+extension	நீட்சி
+eZ Publish	ஈசி பப்ளிஷ்
+fad	மோகம்
+feature	அம்சம்
+feedback	பின்னூட்டம்
+fell short	சரியாகச் செய்யவில்லை
+finding your footing	கால் ஊன்றுவது
+firewall	தீயரண்
+first-hand	நேரடியாக
+fix	திருத்தம்
+flexibility	நெகிழ்வு
+flourish	தழைத்தோங்கு
+flyer	துண்டு வெளியீடு
+forking	கவைத்தல்
+forum	மன்றம்
+founder	நிறுவனர்
+free	கட்டற்ற
+Frequently Asked Questions	அடிக்கடி கேட்கப்படும் கேள்விகள்
+frequent	அடிக்கடி
+from scratch	தொடக்கத்திலிருந்து
+gain traction	வாடிக்கையாளர்கள் நாட்டம் கொள்ளச் செய்
+gaming console	விளையாட்டு முனையம்
+get the word out	தெரியப்படுத்து
+giant	ஜாம்பவான்
+gigabit	கிகாபிட்
+GIMP	கிம்ப்
+GitHub	கிட்ஹப்
+Git	கிட்
+goal	இலக்கு
+governance model	ஆட்சி முறை மாதிரி
+governance	ஆட்சி
+graduate student	முதுகலை மாணவர்
+grammar	இலக்கணம்
+graphical user interface	வரைவியல் பயனர் இடைமுகம்
+graph	வரைபடம்
+groupware	குழு மென்பொருள்
+guide	கையேடு
+guide	வழிகாட்டி
+GUI	வரைகலை பயனர் இடைமுகம்
+hackathon	கூட்டு நிரலாக்க நிகழ்ச்சி
+hackathon	நெடுநிரலாக்கம்
+hacker	கொந்தர்
+hand off	கைமாற்றம்
+handout	கைப் பிரசுரம்
+hands-on exercise	கைப்பயிற்சி
+hard coding	குறுக்கு வழியில் நிரல் எழுதல்
+hard-pressed to find	காண்பது கடினம்
+hardware	வன்பொருள்
+harness	பயன்படுத்து
+Heck	அவ்வளவு ஏன்
+hobby	பொழுதுபோக்கு
+human resources	மனித வளம்
+idiot box	தொலைக்காட்சி
+impact	தாக்கம்
+impersonation	ஆள்மாறாட்டம்
+implement	செயல்படுத்து
+incubation period	காப்புக்காலம்
+India	இந்தியா
+inevitably	தவிர்க்க முடியாமல்
+information technology	தகவல் தொழில்நுட்பம்
+infrastructure	உள்கட்டமைப்பு
+infrastructure	உள்கட்டுமானம்
+Inkscape	இங்க்ஸ்கேப்
+innovator	புதுமைப் புனைவாளர்
+input method	உள்ளீட்டு முறை
+insight	உள்நோக்கு
+insist	வலியுறுத்து
+inspect	ஆய்வு செய்
+install	நிறுவு
+instructor	பயிற்றுநர்
+integrate	ஒருங்கிணை
+intention	உள்நோக்கம்
+interaction	இடைத்தொடர்பு
+interactivity	ஊடாடல்
+interesting	கவனிக்கத்தக்கது
+interesting	சுவாரசியம்
+interface	இடைமுகம்
+Internet of Things	பொருட்களின் இணையம்
+Internet	இணையம்
+interview	பேட்டி
+involve	ஈடுபடு
+in your best interest	உங்களுடைய நலனுக்கு மிக முக்கியம்
+IRC	இணையத் தொடர் அரட்டை
+is already kicking ass	அலட்டலாக
+issue	சிக்கல்
+issue	பிரச்சினை
+IT	தகவல் தொழில்நுட்பம்
+Java	ஜாவா
+JBoss	ஜேபாஸ்
+jerk	இணக்கமற்ற நபர்
+Joomla	ஜூம்லா
+jQuery	ஜேகுவரி
+kernel	கருநிரல்
+kickstart	தொடங்கு
+kid-friendly	குழந்தைகளுக்கு ஒத்த
+know-how	வழிவகை
+label	அடையாளச் சீட்டு
+laptop	மடிக்கணினி
+launchpad	ஏவுதளம்
+lazy consensus	ஓய்வான கருத்தொற்றுமை
+lead	 காரீயம்
+learning curve	கற்றல் சாய்வு
+legally	சட்டபூர்வமாக
+LibreOffice	லிபர்ஓபிஸ்
+license	உரிமம்
+like-minded	ஒத்த நோக்கமுடைய
+like to hang out with	இருக்க விரும்பு
+Linus Torvalds	லினஸ் டோர்வால்ட்ஸ்
+Linux	லினக்ஸ்
+log in	புகுபதிகை
+logistics	தளவாடங்கள்
+logo	இலச்சினை
+logo	குறியம்
+lot to take in	திணற வைக்கும்
+low-key	அடக்கி வாசிப்பது
+machine learning	இயந்திரக் கற்றல்
+macroeconomics	நாட்டு அளவிலான பொருளாதாரம்
+macroeconomics	பேரினப் பொருளியல்
+Mac	மேக்
+made me look good at my job	நிறுவனத்தில் நல்ல பெயர் வாங்க உதவியது
+made me look good	நல்ல பெயர் வாங்க உதவியது
+mailing list	அஞ்சல் பட்டியல்
+maintain	பராமரி
+make time	நேரம் ஒதுக்கு
+malicious	தீய
+Manager	மேலாளர்
+manual	கையேடு
+marketing	மாறுகூற்று
+master	முதுகலை பட்டம்
+maze	புதிர்பாதை
+MediaWiki	மீடியாவிக்கி
+member	உறுப்பினர்
+memory	நினைவகம்
+mentor	வழிகாட்டி
+meritocracy	தகுதிக்கு மதிப்பு
+microeconomics	நிறுவன அளவிலான பொருளாதாரம்
+microeconomics	நுண்பொருளியல்
+Microsoft	மைக்ரோசாப்ட்
+misconception	தவறான கருத்து
+mobile phone	அலைப்பேசி
+moderate	மட்டுறுத்து
+Modular	தொகுதியாக
+module	கூறு
+mom-and-pop business	ஒரு குடும்பத்தினரே நடத்தும் நிறுவனம்
+moral	அறமுறையான
+more noise than gain	பயனை விட கவனச் சிதறல் அதிகம்
+motivation	உந்துதல்
+Mozilla	மோசில்லா
+Mulesoft	மியூல்சாப்ட்
+multimedia	பல்லூடகம்
+multiple	பன்முக
+multi-tenant	பல்குடியிருப்பாளர்
+Mumbai	மும்பை
+natural language processing	இயல்பு மொழி செயல்படுத்தல் 
+network	பிணையம்
+newbie	கற்றுக் குட்டி
+newcomer	புதுமுகம்
+New Delhi	புது தில்லி
+new product development	புதிய தயாரிப்பு வளராக்கம்
+non-profit	இலாப நோக்கற்ற அமைப்பு
+obscurity	இருட்டடிப்பு
+occasion	தருணம்
+Odoo	ஓடூ
+off-the-shelf option	ஆயத்த தேர்வு
+on their own	தங்கள் கால்களிலேயே நிற்க வேண்டும்
+open core	திறந்த உள்ளகம்
+OpenHatch	ஓபன்ஹாட்ச்
+open source	திறந்த மூலம்
+operating system	இயக்குதளம்
+orders of magnitude	பல மடங்கு
+organise	ஏற்பாடு செய்
+organization	நிறுவனம்
+outdated	காலாவதியான
+outlier	அரிதான
+overreach	அகலக்கால்
+owner	உரிமையாளர்
+packaging	தொகுப்பு
+pain point	பிரச்சினை
+partition	தடுப்பு
+party	கொண்டாட்டம்
+passionate	முற்றார்வ
+passion	அதீத ஆர்வம்
+patch	சீரமைப்பு
+patch	நிரல் ஒட்டு
+patent	காப்புரிமை
+pay a fortune	எக்கசக்கமாக செலவு
+payment system	கட்டணம் செலுத்தும் முறை
+perfect	உத்தமம்
+performance	செயல்வேகம்
+Perl	பேர்ல்
+permission	அனுமதி
+Perseverence	விடாமுயற்சி
+perspective	கண்ணோட்டம்
+pitfall	படுகுழி
+platform	இயக்குதளம்
+platform	செயற்பாட்டுமேடை
+Play by the rules	விதிமுறைகளுடன் ஒத்துழை
+plethora	பலவகையான
+plugin	உட்பொருத்தி
+pointer	சுட்டி
+poke around	முனைந்து பார்
+port	ஏற்புடையதாக மாற்றம் செய்
+positive	நேர்மறை
+possible	சாத்தியமான
+PostgreSQL	போஸ்ட்கிரஸ் க்யூ எல்
+potential	சாத்தியம்
+pragmatic	நடைமுறைக்கேற்ற
+pre-condition	முன்தேவை
+pre-install	முன் நிறுவு
+pre-load	முன் ஏற்று
+presentation	விளக்கக்காட்சி
+preview	முன்னோட்டம்
+principle	கொள்கை
+priority	முன்னுரிமை
+process	செயல்முறை
+productivity	உற்பத்தித் திறன்
+product	தயாரிப்பு
+professional	தொழில்சார்
+professional	தொழில் நெறிஞர்
+Professional	வல்லுநர்
+programmer	நிரலாளர்
+program	நிரல்
+ProjectLibre	ப்ராஜக்ட்லிபர்
+projector	ஒளிப்படக்காட்டி
+project	திட்டம்
+proposal	திட்ட செயற்குறிப்பு
+proprietary	தனியுரிமம்
+prototype	முன்மாதிரி
+pro	தொழில் நெறிஞர்
+public	பகிரங்கம்
+publisher	வெளியீட்டாளர்
+pull request	இழு கோரிக்கை
+Put another way	வேறு விதமாக சொல்லப்போனால்
+quantum physics	குவைய இயற்பியல்
+quasi-governmental	பகுதியளவில் அரசாங்க
+query	வினவல்
+R & D	ஆராய்ச்சியும் உருவாக்கமும்
+reach out	தொடர்பு கொள்
+recipe	செய்முறை
+recommend	பரிந்துரை
+recreate	மீட்டமை
+recruiter	தேர்வாளர்
+recruiting	ஆட்சேர்ப்பு
+redistribution	மறுவிநியோகம்
+reference	குறிப்புதவி
+rehearsal	ஒத்திகை
+release	வெளியீடு
+Remote Computer	தொலைக் கணினி
+remote computing	தொலைக் கணிமை
+remote control	தொலை இயக்கி
+rendering	மீள்தருகை
+replacement	மாற்றீடு
+repository	களஞ்சியம்
+Research & Development	ஆராய்ச்சியும் உருவாக்கமும்
+resource	வளம்
+restore	மீட்டெடு
+resurrect	புத்துயிர் கொடு
+reusable	மறுபயனுறும்
+review	மறுசீராய்வு
+review	மறுபரிசீலனை
+risk	இடர்
+robustness	உறுதித்தன்மை
+rules of thumb	எளிய விதிகள்
+run a tight ship	கட்டுப்பாட்டுடன் இயக்கு
+run up against a wall	சுவரில் முட்டியதுபோல் நில்
+scientist	அறிவியலாளர்
+search engine	தேடுபொறி
+Seattle	சியாட்டில்
+secret sauce	தனிச்சிறப்பு
+security	பாதுகாப்பு
+self-driving	தானியங்கி
+semester	அரைக் கல்வியாண்டு
+server	வழங்கி
+service	சேவை
+Servlet	குறுவழங்கி
+Sharepoint	ஷேர்பாயிண்ட்
+share	பகிர்ந்து கொள்
+showcase	காட்சிப்படுத்து
+sift	பீராய்
+silence gives assent	மௌனம் சம்மதம்
+simulate	உருவகப்படுத்து
+slick	நயமிக்க
+small business	சிறு நிறுவனம்
+smart phone	திறன்பேசி
+snoop	ஒட்டுக் கேள்
+social media	சமூக ஊடகம்
+software	மென்பொருள்
+solution	தீர்வு
+sophisticated	அதிநவீன
+source code	மூலக் குறியீடு
+sour grapes	சீச்சீ இந்தப்பழம் புளிக்கும்
+specialization	தனித்துறை
+spreadsheet	விரிதாள்
+spread thin	அகலக்கால் வை
+spy	உளவு
+SQL	சீக்வல்
+Stability	உறுதிப்பாடு
+stable	நிலையான
+stack trace	வழு அடுக்குத்தடம்
+stand on the shoulders	அடிப்படையாக வைத்து அதன் மேல் கட்டு
+stand up	நிறுவு
+startup	துளிர் நிறுவனம்
+stick with	இணைந்திரு
+strategy	உத்தி
+strategy	வியூகம்
+streaming video	தாரை ஒளிக்காட்சி
+stuck through	விடாது இரு
+submit	சமர்ப்பி
+supercomputer	மீக்கணினி
+superfan	தீவிர ரசிகர்
+surfacing	தெரியவருகிறது
+switch	இயக்கி
+switch	மாற்று
+symmetry	சமச்சீர்
+syntax	தொடரியல்
+tablet	கைக்கணினி
+take the plunge	உள்ளே நுழை
+tap the knowledge	திறனை அணுகு
+technical debt	அறைகுறை வேலை
+technology	தொழில்நுட்பம்
+terminal	முனையம்
+test	சோதி
+theme	கருப்பொருள்
+thick-skin	சண்டி
+thrown at it	கிடைக்க வாய்ப்பு
+timezone	நேரமண்டலம்
+to name a few	எடுத்துக்காட்டாக
+tool	கருவி
+total cost of ownership	உடைமையின் மொத்த செலவு
+tradition	பாரம்பரியம்
+tradition	மரபு
+transformation	அடிப்படை மாற்றம்
+translate	மொழிபெயர்
+transparency	ஒளிபுகு நிலை
+transparency	ஒளிவின்மை
+transparency	வெளிப்படைத்தன்மை
+triage	வகைப்படுத்து
+trial	வெள்ளோட்டம்
+troll	வீண் வம்பு செய்பவர்
+TV	தொலைக்காட்சி
+Ubuntu	உபுண்டு
+unique	தனித்தன்மை வாய்ந்த
+up-front	ஆரம்ப கட்டம்
+Upstream	நீரோட்டத்தின் மேல்புறம்
+use case	பயன்முறை
+user	பயனர்
+vacuum	வெற்றிடம்
+validate	செல்லத்தக்கதாக்கு
+venture capital	துணிகர முதல்
+venture capital	துணிகர மூலதனம்
+venture into	துணிகரமாய் இறங்கு
+version control system	பதிப்பு கட்டுப்பாடு அமைப்பு
+version control	பதிப்பு கட்டுப்பாடு
+video game	நிகழ்பட ஆட்டம்
+virtually all	அனேகமாக எல்லாம்
+virtual	மெய்நிகர்
+virus	நச்சுநிரல்
+vote	வாக்கு
+vulnerability	பாதுகாப்பு குறைபாடு
+web browser	இணைய உலாவி
+website	இணையதளம்
+When given a lose-lose choice	எதைச்செய்தாலும் பிரச்சினைதான் என்ற இக்கட்டான கட்டம்
+whirlwind	சூறாவளி
+Wi-Fi	கம்பியில்லாத் தொடர்பகம்
+wifi	கம்பியில்லாத் தொடர்பகம்
+Wikimedia	விக்கிமீடியா
+Wikipedia	விக்கிப்பீடியா
+wiki	விக்கி
+Windows	விண்டோஸ்
+window	சாளரம்
+word-of-mouth recommendation	வாய்வழிப் பரிந்துரை
+WordPress	வேர்ட்பிரஸ்
+word processing	சொல் செயலாக்கம்
+workaround	தற்காலிகத் தீர்வு
+workflow	பணிப்பாய்வு
+workflow	வேலையோட்டம்
+workshop	பட்டறை
+works	தோதானது
+Zarafa	ஸராஃபா
+Zimbra	ஸிம்ப்ரா
+
