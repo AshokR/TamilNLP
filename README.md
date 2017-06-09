@@ -6,7 +6,7 @@
 #### [தமிழ் வாக்கியப் பிரிப்பான்](https://github.com/AshokR/TamilNLP/wiki/Tamil-Sentence-Splitter)
 #### [அடிக்கடி பயன்படுத்தும் இடைச்சொற்கள் (Stopwords)](https://github.com/AshokR/TamilNLP/wiki/Stopwords)
 #### [சொற்பிழைத்திருத்தி](https://github.com/AshokR/TamilNLP/wiki/Spell-Checker)
-#### [ஒமேகாடி (OmegaT) கணினி உதவி மொழிபெயர்ப்பு கருவி](https://github.com/AshokR/TamilNLP/wiki/OmegaT-Computer-Assisted-Translation-tool)
+#### [ஒமேகாடி (OmegaT) கணினி உதவி மொழிபெயர்ப்புக் கருவி](https://github.com/AshokR/TamilNLP/wiki/OmegaT-Computer-Assisted-Translation-tool)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
