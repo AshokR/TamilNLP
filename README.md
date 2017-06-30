@@ -1,5 +1,5 @@
 இந்த தளத்தில் தமிழில் இயல்மொழி ஆய்வுக்கான நிரல்கள், கருவிகள் மற்றும் தரவுகள் பதிவிறக்கம் செய்யலாம்:
-#### [விக்கிப்பீடியா தமிழ் உரைத்தொகுப்பு (text corpus)](https://github.com/AshokR/TamilNLP/wiki/Wikipedia-Text-Corpus)
+#### [விக்கிப்பீடியா தமிழ் உரைத்தொகுப்பு (text corpus)](https://github.com/AshokR/TamilNLP/wiki/Wikipedia-Tamil-Text-Corpus)
 #### [TXM உரைத்தொகுப்பு பகுப்பாய்வு செய்யும் கருவி](https://github.com/AshokR/TamilNLP/wiki/TXM-Corpus-Analysis-Tool)
 #### [தமிழ் சொல்வகைக் குறியிடும் கருவி (POS tagger)](https://github.com/AshokR/TamilNLP/wiki/POS-Tagger)
 #### [தமிழ் உரைச் சுருக்கம் செய்யும் நிரல்](https://github.com/AshokR/TamilNLP/wiki/Text-Summary-Extractor)
