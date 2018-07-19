@@ -9,6 +9,7 @@
 #### [ஒமேகா-டி (OmegaT) கணினி உதவி மொழிபெயர்ப்புக் கருவி](https://github.com/AshokR/TamilNLP/wiki/OmegaT-Computer-Assisted-Translation-tool)
 
 என் ஆங்கில வலைப்பதிவுகள் [இங்கே](https://medium.com/@IyalMozhi/)
+
 ["தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும்" கட்டுரைத் தொடர்](http://www.kaniyam.com/category/information-technology/)
 ---
 Copyright © 2016 இரா. அசோகன்
