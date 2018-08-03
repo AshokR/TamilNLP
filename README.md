@@ -10,7 +10,7 @@
 
 என் ஆங்கில வலைப்பதிவுகள் [இங்கே](https://medium.com/@IyalMozhi/)
 
-["தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும்" கட்டுரைத் தொடர்](http://www.kaniyam.com/category/information-technology/)
+["தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும்" கணியம் இணைய இதழில் என்னுடைய கட்டுரைத் தொடர்](http://www.kaniyam.com/category/information-technology/)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
