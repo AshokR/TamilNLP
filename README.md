@@ -10,9 +10,9 @@
 
 என் ஆங்கில வலைப்பதிவுகள் [இங்கே](https://medium.com/@IyalMozhi/)
 
-["தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும்" கணியம் இணைய இதழில் என்னுடைய கட்டுரைத் தொடர்](http://www.kaniyam.com/category/information-technology/)
+### ["தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும்" கணியம் இணைய இதழில் என்னுடைய கட்டுரைத் தொடர்](http://www.kaniyam.com/category/information-technology/)
 
-இயந்திரவியல் கட்டுரைகள்:
+**இயந்திரவியல் கட்டுரைகள்**:
 #### [பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 1](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-1-7f4b37eeea8c)
 #### [பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 2](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-2-478e4b674186)
 #### [பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 3](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-3-47331fe4a840)
