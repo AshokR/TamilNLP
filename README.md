@@ -13,14 +13,14 @@
 ["தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும்" கணியம் இணைய இதழில் என்னுடைய கட்டுரைத் தொடர்](http://www.kaniyam.com/category/information-technology/)
 
 இயந்திரவியல் கட்டுரைகள்:
-[பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 1](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-1-7f4b37eeea8c)
-[பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 2](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-2-478e4b674186)
-[பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 3](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-3-47331fe4a840)
-[கடைசல் இயந்திரம் (Lathe)](https://medium.com/@IyalMozhi/கடைசல்-இயந்திரம்-lathe-7b7aea1809c8)
-[பொறியியல் வரைபடம் - திறந்த மூல லிபர்கேட் (LibreCAD)](http://www.kaniyam.com/engineering-drawing-open-source-librecad/)
-துருவல் இயந்திரம் (Milling machine)
-வரம்புகள், பொருத்தங்கள் மற்றும் பொறுதிகள் (Limits, Fits and Tolerances)
-உலோக வெட்டல் மூலப்பொருட்களும், வெட்டுளிகளும், வெட்டு வேகங்களும்
+#### [பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 1](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-1-7f4b37eeea8c)
+#### [பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 2](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-2-478e4b674186)
+#### [பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 3](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-3-47331fe4a840)
+#### [கடைசல் இயந்திரம் (Lathe)](https://medium.com/@IyalMozhi/கடைசல்-இயந்திரம்-lathe-7b7aea1809c8)
+#### [பொறியியல் வரைபடம் - திறந்த மூல லிபர்கேட் (LibreCAD)](http://www.kaniyam.com/engineering-drawing-open-source-librecad/)
+#### [துருவல் இயந்திரம் (Milling machine)](https://medium.com/@IyalMozhi/துருவல்-இயந்திரம்-milling-machine-4ac7420e06e2)
+#### [வரம்புகள், பொருத்தங்கள் மற்றும் பொறுதிகள் (Limits, Fits and Tolerances)](https://medium.com/@IyalMozhi/வரம்புகள்-பொருத்தங்கள்-மற்றும்-பொறுதிகள்-limits-fits-and-tolerances-f767a2d7d8a8)
+#### [உலோக வெட்டல் மூலப்பொருட்களும், வெட்டுளிகளும், வெட்டு வேகங்களும்](https://medium.com/@IyalMozhi/உலோக-வெட்டல்-மூலப்பொருட்களும்-வெட்டுளிகளும்-வெட்டு-வேகங்களும்-41766fffdf25)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
