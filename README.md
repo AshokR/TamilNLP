@@ -21,6 +21,8 @@
 #### [துருவல் இயந்திரம் (Milling machine)](https://medium.com/@IyalMozhi/துருவல்-இயந்திரம்-milling-machine-4ac7420e06e2)
 #### [வரம்புகள், பொருத்தங்கள் மற்றும் பொறுதிகள் (Limits, Fits and Tolerances)](https://medium.com/@IyalMozhi/வரம்புகள்-பொருத்தங்கள்-மற்றும்-பொறுதிகள்-limits-fits-and-tolerances-f767a2d7d8a8)
 #### [உலோக வெட்டல் மூலப்பொருட்களும், வெட்டுளிகளும், வெட்டு வேகங்களும்](https://medium.com/@IyalMozhi/உலோக-வெட்டல்-மூலப்பொருட்களும்-வெட்டுளிகளும்-வெட்டு-வேகங்களும்-41766fffdf25)
+#### [கயெக (CNC) எந்திர அடிப்படைகள்](https://medium.com/@IyalMozhi/கயெக-cnc-எந்திர-அடிப்படைகள்-30a2ffa8c410)
+#### [கயெக கடைசல் இயந்திரம் (CNC Lathe)](https://medium.com/@IyalMozhi/கயெக-கடைசல்-இயந்திரம்-cnc-lathe-aa29482d3998)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
