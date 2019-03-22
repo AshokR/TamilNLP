@@ -1,0 +1,66 @@
+Introducing students to the world of open source: Day 1
+
+From the co-creator of web browser Firefox, Blake Ross to the Linux kernel author, Linus Torvalds, students are credited with major achievements in the open source community. But that's not the picture Yuvi Masory painted as he sat across the table from me at an OpenHatch meetup in Philadelphia.
+
+"My lab is hiring," he explained. "We need students with programming experience and who can find answers to questions. But the students at Penn have never even heard of IRC. They've never contributed to open source."
+
+Yuvi is a graduate student and staff programmer. He implored me to come to campus and give a one-hour talk to undergraduates about OpenHatch, my project to help new contributors find their way in the community.
+
+"Give me a weekend instead," I said.
+
+A weekend of immersion
+
+We scheduled a planning session between Yuvi, myself, and Felice Ford, a Linux-loving classics major at Harvard who was visiting.
+
+We settled on two days of rich interaction. Even though programming students can write code, most never see a bug tracker, and very few learn about version control. This creates a cultural rift where plenty of people bounce off open source projects because of build problems or lack of community leadership. We wanted to be there to help students past problems like that.
+
+We put up a website explaining the event. For Saturday, we planned four one-hour sessions. Each session focused on a different topic and offered students some hands-on exercises. The second day was a more typical "hackathon," a project day where we helped students find their way in projects of their choosing.
+
+To create a sense of commitment from students, and to ensure a tight student-teacher ratio, we limited Saturday to 20 students. To help us prioritize people who were particularly excited, and particularly new, we asked for:
+
+One sentence about how they discovered the event website
+One sentence about their current involvement in open source (e.g., "never heard of it", "run Ubuntu", "wrote most of the Linux kernel")
+One sentence about something they were excited about learning
+Since our goal was to make more students aware of open source culture, we wanted to work directly with students to kickstart a local community. This strategy is unique, as far as we know. You may have read about the Professors' Open Source Summer Experience that teaches professors so that they can run a semester-long class for students.
+
+Will they come?
+
+To get the word out, we asked the University of Pennsylvania's computer science program to email all 250 of its students. We also reached out to students at Swarthmore and other nearby colleges. Yuvi put up enigmatic index cards, and a friend of his put up flyers.
+
+Within minutes of sending the announcement, the emails started rolling in. By the end, we heard from fifty-one applicants. Immediately overwhelmed, we switched from worrying about advertising to reading the applications.
+
+What feels normal to us is apparently extremely exciting to these students. Reading the emails was like reading fan mail. Some wrote such gems as this:
+
+"My involvement with open source is primarily composed of unabashed admiration and adulation."
+"I'm most excited to learn how to initially get involved with a project, I've poked around before, but the initial learning curve has been too intimidating for me to take the plunge."
+"I have just read a lot about open source software. I'm really interested in how such collaborations create innovative and effective products (Firefox!), as well as the business perspective of how these collaborations are organised and run efficiently."
+"I'd be excited about learning pretty much anything that has to do with open source software, the communities that create it, and its social impact."
+"I hope I make it! This sounds terribly interesting!"
+I just sat at my computer, reading and re-reading, saying aloud: "This is so exciting! These people are so excited!"
+
+The students came from a wide variety of ethnic and cultural backgrounds. More than a third of the applicants were women, a (slightly) more even ratio than the Penn CIS program itself. Yuvi and I selected the thirty most excited students and told them to meet us on Saturday.
+
+Now we needed teachers. Felice had created #penn on Freenode as a chat room for our burgeoning community. To our luck, a GNOME hacker named Zach Goldberg appeared in the channel, and we convinced him to take a bus from New York to his alma mater. My friends Jonathan Simpson and John Stumpo rounded out the teaching team.
+
+We spent Friday afternoon and evening nailing down logistics. Around 1 a.m., Yuvi and I decided to switch which topics we would teach. Felice organized the students into groups based on their level of experience. Finally, we could all go to sleep.
+
+One busy Saturday
+
+The teachers all arrived by 10 a.m., and we set up wifi for the students to use. Teachers taught the same topic four times in a row, so we had the chance to improve our curriculum. Students switched between teachers and took a whirlwind tour of four areas within the open source community:
+
+Communication technologies, like IRC and mailing lists
+How to get, build, and modify open source code
+Project organization, including version control, bug trackers, and individual roles within a project
+Linux and command line skills
+We broke once for lunch, and another time to discuss free software ethics in general and licensing specifically. Finally, after students had visited all four modules, we had an open discussion to wrap up the day. About twenty of our thirty students stuck through until the end.
+
+Much feedback was positive. One student said about contributing to open source, "You made it feel a lot more doable." He continued, "You don't have to be a pro programmer to help or contribute something." Another enjoyed the variety of teachers and their "different personalities, the different take on things."
+
+One student was particularly taken by the discussion of principles and ethics behind the free software movement. "It puts everything in a different perspective," she said definitively. However, she found our use of the term "hacker" a jarring distraction.
+
+Toward the end of wrap-up, a student asked us when we would be running another event. At that moment, Yuvi and I looked at each other in disbelief.
+
+Overall, students enjoyed the down-to-earth nature of the event. One student enjoyed our "conversational tone" and explained, "It was good to learn that open source people aren't cyborgs." Another called upon us to "Continue to keep it free [of charge]!"
+
+Asheesh Laroia loves growing camaraderie among geeks. He chaired the Johns Hopkins Association for Computing Machinery and taught Python classes at Noisebridge and EFF when he lived in San Francisco. 
+Now based in Somerville, MA, he has volunteered his technical skills for the UN in Uganda, the EFF, and Students for Free Culture, and is a Developer in Debian. He worked at Creative Commons until mid-2009, when he left to co-found OpenHatch.

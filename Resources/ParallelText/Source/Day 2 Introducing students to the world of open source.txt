@@ -1,0 +1,47 @@
+Introducing students to the world of open source: Day 2
+
+Read part 1 of this story about launching a weekend course to teach college students how to get involved in open source projects.
+
+After Saturday's classroom-style work, we used Sunday for an open projects day, where students could drop in and get help contributing to a project. Perhaps because we didn't force the students to commit, only about twenty students came.
+
+As students rolled in, we helped them choose a project to contribute to. Many worked on a building a new Android app at the suggestion of Yuvi's father. One student reviewed options on the OpenHatch volunteer opportunity finder and wanted to work on Sugar.
+
+As she followed the instructions on running Sugar within VirtualBox, she noticed the 'Import' option was greyed-out in her VirtualBox install. "Am I doing something wrong?" she asked.
+
+"No," I answered. "It's clearly busted." Once she stepped across this hurdle, she paired up with a student sitting next to her who also had VirtualBox installed.
+
+Yuvi tasked one student with creating a release of GTKJFileChooser, a file chooser dialog that has contributed to OpenJDK. The student created a patch to bump the version number, wrote some release notes, and created distribution files.
+
+Four other students were unsure what project to work on, so I suggested Firefox. I pointed them at a Mozilla Education wiki page with a tutorial on altering Firefox's XUL code. One of the attendees already knew Mercurial; he worked quickly, and was the first to discover that the article pointed at a revision that does not compile.
+
+By mid-Sunday, I was in despair. I had led four excited students down the garden path; I feared I had burned up the enthusiasm I wanted to build. One student played video games while her laptop, two hours in, was still compiling; I knew the build would not even finish.
+
+Once I took a deep breath, I realized we were all "productively lost." The Mercurial user discovered that a bug had already been filed about the build failure; this was a relief to him, since it meant the build failure wasn't his fault. Another student successfully compiled the current HEAD of Firefox. "Is this a beta? An alpha?" he asked.
+
+"No," I answered. "It's the latest version." He still did not understand, so I pointed him to hg log. "See, it's the version of Firefox from 30 minutes ago." He burst into laughter.
+
+After he calmed down, he explained, "I've never used any software so fresh as this!"
+
+As the gamer waited for Firefox to build, she asked us, "Is it worth it to install Linux?" We convinced her to try it, and she quickly had Ubuntu running. She was then faced with the a wi-fi card that was not working due to a proprietary component not provided by the installer. Seeing her impatience, I promised her we could fix it in ten minutes. She found the right Ubuntu Community Help page and fixed it within five. Then she spent five minutes fixing up that wiki page so that she could could have understood it without my help.
+
+At this point, she complained about the behavior of the Ubuntu notification applet: when she moved her pointer over it to dismiss it, it became transparent and ignored her clicks. She had no C experience, but with a little help, she hacked and slashed at the source code until the upsetting behavior was gone. She rebuilt the package and installed it. By the end, she had learned about GTK event handlers and .deb packaging. Moreover, she saw first-hand the degree of control she now had over her computer.
+
+By the end, I was pleased. Our students made substantial contributions to documentation and packaging. They became more comfortable building and hacking open source code, and they discovered that when they had questions, they could get help.
+
+Building a community
+
+In a sense, the students are now on their own. By running the event, we hoped to create a local community that would sustain itself. Now that they can reach out to each other by the mailing list and IRC channel, they need not feel divided and helpless.
+
+One weekend was not enough to turn them all into mailing list fanatics and IRC channel idlers, but a community is growing. Even now, two weeks after the event, some students idle on ##penn, and a new visitor pops in every few days to ask a question. Yuvi is organizing an Ubuntu release party, and the RSVPs are flowing in. I'm hopeful that the students can continue to magnify each others' enthusiasm.
+
+Host your own
+
+In November, I'm planning to run a similar event in the Boston area. If you'd like to hold an event like this, I'd recommend following similar steps to those we went through, with a few lessons learned:
+
+Most importantly, we will rehearse the teaching beforehand. For the project organization module that John Stumpo and I taught, it took us two run-throughs before we fine-tuned the exercises and the curriculum to fit within an hour. (You can find the final version in the wiki page under "further reading.") In addition, we will "play-test" the tutorials we use.
+
+We went out for lunch, and I enjoyed chatting with my students so much that I delayed my group's return. We ended the event almost an hour late. To be fair to the students' plans for the rest of the day, next time we will run on schedule. 
+
+Finally, we spent too long helping students get on IRC on Saturday morning. In future events, we will incorporate IRC into the sign-up process so students come prepared to use it. Also, I will use something smarter than email to handle the influx of prospective students!
+
+Going forward, I hope to see more of these pop up. I'm hoping that attendees of these events take the experience and run similar events without me. Whether or not you've attended one, if you want to run such an event, go for it!

@@ -1,0 +1,95 @@
+When Heidi Ellis took the floor at this year's Professors' Open Source Summer Experience—held May 28-30 at Drexel University in Philadelphia—she wanted her colleagues to understand the extraordinary educational benefits of involving students in open source projects.
+
+And what better to help them realize these benefits than the distilled wisdom of open source communities themselves.
+
+Ellis, who co-coordinated POSSE with Drexel professor Greg Hislop, told a crowd of nearly 20 faculty members from colleges and universities across the country that embedding their computer science students in open source communities could facilitate a kind of engagement traditional classroom experiences just can't offer. But, she said, students and professors alike should be prepared for a bit of culture shock if they aren't prepared to embrace the open source way.
+
+So Ellis derived 16 maxims from free and open source culture—what she calls "FOSSisms"—to explain how open source values might transform computer science education.
+
+FOSSism #1: It's all about community
+
+Getting students started with open source means asking them to do more than simply work on a new project. It involves asking them to join a community, Ellis said. And "when you do that," she said "you're joining a new culture."
+
+So students must quickly acclimate to the unspoken norms of a group with its own methods, preferences, and in-jokes. When joining an open source community, students should identify that community's preferred channels of communication and use those as windows into its culture.
+
+"The community drives the project," Ellis said, "not vice versa."
+
+By joining open source communities, students gain access to experts that can assist them when they begin struggling with their contributions. In this way, faculty members acquire valuable mentors for their students.
+
+"Once you're in the community, you're a part of the community," Ellis said. "That's one of the benefits. They'll care for your students."
+
+FOSSism #2: Be productively lost
+
+The scope of any open source project or community exceeds any single person's ability to completely comprehend it. Consequently, students might feel lost or adrift in unfamiliar territory. But their instructors should encourage them to use their confusion productively—to investigate the community and to learn about a project by digging through its materials. A period of head-spinning disorientation is perfectly natural—even beneficial—Ellis assured her audience. The same is true for professors who are also new to their chosen open source projects.
+
+"This can be a very foreign concept to instructors," Ellis said. "We are taught that we are supposed to be the subject matter experts."
+
+FOSSism #3: Give back
+
+Open source software projects survive on contributions from users and developers, Eillis explained, so students must learn to start giving back immediately. They should update documentation, test code, confirm bugs, answer questions from others—pitch in wherever they can. They'll soon learn they don't need to be experts to make positive impacts to their communities; they just need to be willing to do the work. Even the smallest contributions are valuable, Ellis said.
+
+FOSSism #4: Opportunism reigns
+
+Because few open source developers work on their projects full-time, competing demands always limit their ability to contribute. So open source development can be rather opportunistic, Ellis explained: development occurs in spurts as coders take advantage of resources as they appear. Students must realize that open source development processes don't always mirror those of industry; work might occur in fits and starts according to community members' availability.
+
+FOSSism #5: If it isn't public, it didn't happen
+
+Open source work occurs in the open. Coders make use of mailing lists, IRC channels, and other public communication channels so everyone in the community—and anyone wanting to join the community—can peek at what they're doing. Students must become comfortable with working in public and sharing their resources, Ellis said.
+
+"If people can't see them," she said, "they're no good to people."
+
+Transparency can be startling to faculty, too, Ellis added.
+
+"Most academics have it ingrained in them that you don't publish anything until it's perfected," she said. "In the open source world, it's the complete opposite."
+
+FOSSism #6: Embrace radical transparency
+
+Because open source communities engage in distributed development, they embrace radical transparency and the materials they produce—all the documentation, code, and other artifacts that students can seize to enhance their learning—are open by default, ready for use in the classroom (and beyond).
+
+"All this is a rich, rich avenue for learning," Ellis said.
+
+FOSSism #7: Ask forgiveness, not permission
+
+Almost invariably, open source communities utilize some form of version control, Eillis explained, so students should realize that their contributions have little chance of completely derailing a project. They needn't ask permission to tinker with something; they should simply begin working, asking for the community's forgiveness if they make a mistake. More often than not, community members are understanding and supportive, because undoing errors involves little effort.
+
+FOSSism #8: Branches are free
+
+Students still reluctant to work directly with a community's codebase should remember that they can easily branch an existing project and fiddle with local copies instead. Doing this might liberate them to experiment. It might even result in their fixing a bug—a result they can then easily share with the project, Ellis said.
+
+FOSSism #9: Keep a history
+
+Version control is merely one way that open source communities keep histories. But nearly every component in open source development toolchains keeps records. So students can use a project's records to more quickly assimilate into the community. They can also use these same record-keeping tools, Ellis added, when the semester comes to a close and they're ready to hand off the work they've done.
+
+FOSSism #10: Begin with the finishing touches
+
+Students should always begin with the smallest, most seemingly inconsequential bugs, Ellis said—the low-hanging fruit that allows them to make productive contributions to a project early in the term. They might update documentation or verify a bug, important contributions that require little knowledge of a project. Ellis cautioned that professors asking their students to begin with project-defining contributions might find themselves overwhelmed.
+
+"Don't take on the world," she said.
+
+FOSSism #11: It's not what you know; it's what you want to learn
+
+By virtue of their being in a classroom—an environment predisposed to inquisitiveness—students are already well-positioned to contribute to open source projects, Ellis said, because these communities value members who want to learn how they can assist. Every member of an open source community was once a newbie, Ellis reminded her colleagues; open source projects typically welcome new members ready and willing to learn the skills necessary to make a difference to the project.
+
+FOSSism #12: Release early, release often
+
+Open source applications benefit from short, tight feedback loops between developers and users, Ellis said. Projects iterate often, and students should become accustomed to constant change. But a "release early and often" mentality also ensures that students learn from their mistakes quickly—often quicker than they would if they waited weeks for a single instructor or teaching assistant to assess and grade their work.
+
+FOSSism #13: Push to upstream
+
+Students should always—always, always—push their work to the upstream developers and communities from whom they benefit. This is only proper decorum in open source communities. But by doing so, students also realize a sense of accomplishment as communities recognize the functionality and polish they've provided to a project. In short, students learn the importance of reciprocity—of giving back.
+
+FOSSism #14: Show me the code
+
+Open source communities, Ellis said, are consummately pragmatic: programmers are only as good as the skills they demonstrate. As Linus Torvalds has said: "Talk is cheap. Show me the code." Students participating in open source projects must be ready to hit the ground coding if they want to be accepted as part of their respective communities.
+
+FOSSism #15: Remember shallow bugs
+
+Ellis reminded her colleagues of what Eric Raymond calls "Linus' Law": "given enough eyeballs, all bugs are shallow." Students, she said, must learn to accept help from the communities of which they're a part; they must be ready to ask for help when they need it, rather than toil away in isolation while growing increasingly frustrated. They should speak up immediately when they're having trouble, so the community can step in and discuss the problem as a group.
+
+FOSSism #16: Avoid uncommunicated work
+
+Ellis said that students must learn to transfer their work gracefully when they finish the academic term; they should know that their efforts aren't complete until they've ensured that their communities can safely care for (understand, maintain, and build upon) what they've contributed. They should always identify project maintainers and communicate their intentions appropriately—even if they've fallen short of their goals.
+
+"It's better to communicate undone work," Ellis said, "than to do uncommunicated work."
+
+Bryan Behrenshausen - Bryan has been a writer and editor at Opensource.com team since 2011. In 2015, he earned his PhD in Communication from UNC, Chapel Hill. When he's not thinking or writing about all things open source, he's playing vintage Nintendo, reading classic science fiction, or rehabilitating an old ThinkPad. Around the Net, he goes by the nickname "semioticrobotic."

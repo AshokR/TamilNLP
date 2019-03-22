@@ -1,0 +1,70 @@
+When you're new to open source, you'll find yourself asking:
+
+I know some [programming language]. I want to get some practice, while helping out. How do I find an open source project where I can contribute? Hm... I don't know where to start. This seems complicated.
+
+I've asked this same question over and over to a lot of developers. And their answers can be categorized into one of three approaches:
+
+Approach #1: Contribute to something you love
+
+The most common answer I get is to contribute to something you already use everyday, something that interests you.
+
+Approach #2: Seek out beginner-friendly projects
+
+Here are a few characteristics of beginner-friendly open source projects:
+
+Well-defined, detailed contribution guidelines that include how to set up their project locally, their Git workflow, and their coding style guidelines
+Proper classification of issues using labels like "good-first-bug", "beginner", or "first-timers-only"
+Activity on those beginner issues, with previous questions answered quickly
+Approach #3: Stop searching for projects and start searching for bugs
+
+This is the approach I chose, and the focus of this article.
+
+After trying approaches #1 and #2, I stopped thinking in terms of projects. I focused instead on finding bugs that I thought I could fix. Every bug is associated with a project, so when finding bugs, you'll inevitably discover projects.
+
+This approach works if you want to get started immediately. I can't guarantee that it will inspire you to stick with a project after your first few contributions. Maybe you won't be interested after all. But maybe you'll dive into the project and discover that you really like it.
+
+Either way, once you've fixed a few bugs, you'll have the confidence to venture out there and explore more on your own.
+
+So how do you find the bugs to begin with?
+
+Deciding which bugs to work on isn't easy. There are a ton of projects out there, and each has plenty of open issues. But you need to start somewhere.
+
+So I'll share all the resources and tips I've used to find bugs. First I'll focus on finding good starter bugs in general in various bug trackers and code hosting sites. Then I'll share some resources specific to the Mozilla ecosystem, where I've been contributing regularly.
+
+Finding good bugs for beginners
+
+A good place to start your bug hunt is Up For Grabs. The whole purpose of the site is to help new contributors get their feet wet by maintaining a list of projects with beginner-friendly issues. It's a great place to get started if you feel completely lost.
+
+GitHub has a powerful search engine where you can customize your search in a variety of ways. The easiest way to search is by issue label.
+
+A lot of open source projects label their issues to conveniently track them, using labels like beginner, easy, starter, good first bug, low hanging fruit, bitesize, trivial, easy fix, and new contributor.
+
+You can further narrow down your search based on the programming language you're comfortable with, by adding language: name to your search query. For example, here are all issues labeled as "beginner" in JavaScript.
+
+Issuehub.io is a tool for searching issues by label and language, in case you find it tedious to remember the GitHub search syntax.
+
+If you're completely new to open source, you should definitely start with First Timers Only. It's an initiative by Kent C. Dodds, based on his own First Timers Only post and Scott Hanselman's Bring Kindness Back to Open Source. The bugs are labelled first-timers-only. You might also find this Twitter bot helpful. It tweets out all issues labelled as "first-timers-only".
+
+Another great way to find issues is YourFirstPR by Charlotte Spencer. They showcase starter issues on GitHub that can be easily tackled by new contributors.
+
+Awesome-for-beginners is a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
+
+Openhatch is a non-profit organization that helps lower barriers of entry into open source by helping to match contributors to bugs and projects.
+
+The Mozilla contributor ecosystem
+
+A lot of Mozilla's projects are hosted on GitHub. For these projects, everything I listed above is still useful. They use the label "good first bug" for starter issues. But Mozilla also uses its own tool called Bugzilla as its primary issue tracker. They host some of their issues, and use Mercurial for version control instead of Git.
+
+Firefox is one of the projects that uses Bugzilla and Mercurial. It's a bit scary, to be honest. It's a lot to take in. So I recommend this excellent blog post and video, which do a great job of demystifying these tools.
+
+Over the years, Mozillians have tried to make it as simple as possible to contribute to Mozilla. Here are their efforts:
+
+Good First Bugs: These are bugs that developers have identified as a good introduction to the project. They are often (but not always) relatively easy to solve.
+Mentored Bugs: These bugs have a mentor assigned who will be there on IRC to help you when you get stuck while working on fix. They often review your patch and give feedback. If you don't know where to begin with contributing to Mozilla projects, this is the best place to start. You'll have someone who can answer your questions when you feel you've run up against a wall. All the mentors I've worked with have been super responsive, supportive, and helpful throughout.
+Bugs Ahoy: This is a site dedicated to finding bugs on Bugzilla. It has a friendly user interface where you can filter by language.
+Firefox DevTools: This site is dedicated to bugs filed for the developer tools in the Firefox browser. You can sort based on the DevTools components you want to work on.
+What Can I Do For Mozilla. This is a great way to explore and figure out what you can work on by answering a bunch of questions about your skill set and interests.
+Start Mozilla: This is a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+To help new contributors get started, a repository has been created on GitHub, FreeCodeCamp/how-to-contribute-to-open-source, with a ton of resources and instructions to get started with open source.
+
+Shubheksha Jalan - I'm a CS student from India with a keen interest in software development.

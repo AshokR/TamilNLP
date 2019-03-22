@@ -1,0 +1,70 @@
+Four Linux distros for kids
+
+I can see the brightness of curiosity in my six year old niece Shuchi's eyes when she explores a mobile phone or manipulates the idiot box with its remote control or becomes creatively destructive with any other electronic device. She, like a lot of kids her age, love experimenting.
+
+This curiosity reaches its peak when she sits in front of my laptop or her father's laptop. A lot of times, however, I observe that she is lost in complicated applications that are suitable only to adults. An operating system that an adult uses and the system running it can look like a beast to a lot of kids. These applications are beyond the comprehension of very young kids and do not provide an ideal (and playful) introduction to computers. Futher, adults' laptops and tablets do not serve as a good learning environment for any kid (younger or older) who is just onboarding into the world of computing. Besides, letting a kid run wild on a computer with an online connection can be daunting for the parents.
+
+As a big kid myself, and an open source software enthusiast for over four years now, I like exploring and experimenting with different software solutions. Pertaining to the problem of finding and setting up an ideal system for my young niece, I found that the open source Linux community has created specialized operating systems and environments for kids. Plus, setting up these systems is a breeze.
+
+Why should kids learn Linux
+
+I have reached a conclusive opinion at this point in my life that children should be exposed to the power of Linux early on. Two of the reasons are...
+
+For the future of computing
+
+ I recently read the article, A year of Linux desktop at Westcliff High School, which is an excellent piece by Stu Jarvis in which Malcolm Moore replies to a question by stating, "Here is a survey that reports in 2000, 97% of computing devices had Windows installed, but now with tablets and phones, etc., Windows is only on 20% of computing devices, and in the world of big iron, Linux reigns supreme. We specialize in science and engineering and want our students to go on to do great things like start the next Google or collapse the universe at CERN. In those environments, they will certainly need to know Linux."
+
+Linux runs some of the most complex infrastructures in the world. For anyone even remotely interested in a career in technology, learning Linux will be a definite asset. Besides that, the adoption of Linux is massive and ubiquitous. Consider this:
+
+Linux powers international space stations
+Linux powers the technology in new cars like Tesla and Cadillac
+Linux powers air traffic control systems
+Google, Facebook, Twitter, all use Linux
+9 out of 10 supercomputers in the world run on Linux
+There is a rational reason that initiatives like One Laptop per Child, which in my opinion is one of the most powerful programs today that is working to bridge the digital divide, use Linux based systems.
+
+For customization and variety
+
+ Learning at an early age can be best enhanced in an environment that encourages exploration. There is no other operating system that offers such variety and autonomy to customize the system based on specific needs like Linux. Like toys and clothes for kids, the Linux community has developed specific operating systems that can offer them a fun learning environment. I believe that to boost curiosity in kids, it is important to create a set up that gives them a feeling of wonder.
+
+Programs to teach kids Linux
+
+There are many different varieties of environments that the Linux community has designed for the children, and I haven't yet explored them all, but of the ones I did, you should be able to find a great solution for teaching a kid you know about Linux and computing.
+
+Qimo
+
+http://www.qimo4kids.com/
+
+Qimo for kids is a Ubuntu-based distribution designed specifically for children. The operating system comes pre-installed with a lot of educational applications for children ages 3 years and older. It comes with GCompris, a perfect suite for children aged 3 to 10 years. It consists of over 100 educational games that teaches basic computer use, reading, art history, telling time, and drawing pictures, as well as Childs Play, a collection of memory-building games.
+
+One of the things I like best about this distribution is that it uses XFCE desktop , which is a lightweight desktop that can be installed on older machines. The hardware requirements are low and it is absurdly easy to repurpose an old laptop or a desktop system. We had an old PC at home, and Qimo resurrected it. This operating system was my choice for my niece because of its simple child friendly cartoon desktop and assortment of educational applications.
+
+Sugar
+
+https://www.sugarlabs.org/
+
+Sugar was designed for the One Laptop per Child program. It is an easy to use and kid-friendly operating system. Children who love exploring will figure out things quickly in this environment, even if they cannot read or write yet.
+
+From Sugar Labs:
+
+Information is about nouns; learning is about verbs. The Sugar interface, in its departure from the desktop metaphor for computing, is the first serious attempt to create a user interface that is based on both cognitive and social constructivism: learners should engage in authentic exploration and collaboration. It is based on three very simple principles about what makes us human.
+
+Ubermix
+
+http://www.ubermix.org/
+
+Ubermix is extensively used in schools. The system was designed to store user data and software in seperate partitions. So, in case the computer malfunctions, the user can wipe out the operating system and resotre fresh copies quickly. From Ubermix founder, Jim Klein, in an Opensource.com interview:
+
+Ubermix comes pre-loaded with a number of applications for education, productivity, design, programming, Internet, and multimedia construction. Education oriented applications like Celestia, Stellarium, Scratch, VirtualLab Microscope, Geogebra, iGNUit, and Klavaro, as well as educational games like TuxMath, TuxTyping, gMult, and Numpty Physics all bring with them plenty of opportunities to learn.
+
+Internet applications we all know and love, like Firefox, Thunderbird, Chrome, Google Earth, and Skype are all there. Common productivity apps like LibreOffice, NitroTasks, Planner Project Management, VYM (View Your Mind), and Zim Desktop Wiki are too. Kids interested in design will find the GIMP, Inkscape, Scribus, Dia, Agave, and even TuxPaint for the younger ones. And apps like Audacity, Openshot, Pencil, and ffDiaporama help round out the media offerings. These, and many more, make Ubermix a powerful launchpad for student creativity and learning.
+
+Edubuntu
+
+http://www.edubuntu.org/
+
+Formally the Ubuntu Education Edition, Edubuntu was developed in collaboration with educators and teachers. It embeds a variety of educational programs and a suitable learning environment. An advantage to it is access to the Ubuntu software repository. The education community has extensively used this operating system in schools and organizations to provide an enriched learning environment for their students. It's a great operating system to teach older children about Linux; it can have a steeper learning curve in comparison to Qimo and Sugar.
+
+About the author
+
+Aseem Sharma - Aseem is a graduate of Conrad Business, Entrepreneurship and Technology Center, Faculty of Engineering, University of Waterloo, Canada. He also holds a masters in computers application from Guru Nanak Dev University, Punjab, India. On Opensource.com, he serves as an author. He also blogs at http://aseemsharma.info/.

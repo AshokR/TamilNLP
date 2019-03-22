@@ -1,0 +1,7 @@
+How to get started with open source
+
+Taking the first steps in any journey can be scary. There are new obstacles to hurdle, unfamiliar landscapes to traverse, and usually the destination is shrouded in mystery. But that's also what makes new ventures exciting and worthwhile.
+
+The collection of stories in this series are about striking out on the open source way. Whether you're an individual, seeking information on moving away from closed software, or an organization looking for free and open alternatives to the utilities that help your business succeed, these are stories about finding your footing in the world of open source. Several are “origin stories” about how experts discovered open source, and how they've flourished in the time since. Others are focused guides on finding the right software, using a specific open source tool, or introducing your neighborhood or town to the power of the open source way.
+
+Remember that it's not easy to get started with anything new, but, as an old Buddhist saying goes, “It is better to travel well than to arrive.” We hope these stories will help you travel well along the open source way, and keep you traveling for years to come.

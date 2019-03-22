@@ -1,0 +1,57 @@
+I'm a part of the Drupal community, which has more than 100,000 active contributors worldwide. And among them is a growing group of employees who are encouraged by their employers to contribute to open source.
+
+These days, finding a seasoned developer whose resume or CV doesn't mention an open source contributionor two (or more) is rare. The best developers know it matters, and it's becoming normal for contributions to help you get, or keep, a job. If you're an employer in technology, you know that. So how can you help your employees contribute to open source?
+
+Contributing to projects can earn companies valuable and authentic advocacy. Why do direct marketing alone when the community can help show what you're capable of? Get your bragging rights certified.
+
+And, if you're an employee who's company doesn't want to give back, figure out how to convince them. See how Drupal.org does it with this resource on convincing senior management.
+
+5 considerations before you get started
+
+Contributions don't have to be tech related
+
+Open source projects need people who have non-coding skills, like documentation, translation, testing, marketing, and donations.
+
+What can I do for Mozilla? is a resource that helps pair people with the organization's technical and non-technical needs. Drupal's ways to get involved resource gives a nice overview of how people can help as well. To quote Drupal.org, "We depend on our diverse community of passionate volunteers to move the project forward by working on not just web development and user support, but also many other contributions and interests."
+
+Build relationships with your employees and the community
+
+If you're just starting out in open source, meeting other professionals and learning the ins and outs of the industry helps tremendously. Networking might seem intimidating at first but you are working with people who have grown and learned with a community that consists of a highly-respected and talented pool of people.
+
+If you're not new to open source, but want to meet more people, ask someone if they'd like to meet to chat over a refreshment. Talk about work and non-work related topics.
+
+If you know a lot of people, introduce people to others.
+
+Discover the needs of the community / project
+
+Find out what are the most critical projects and issues for the project you're interested in. If you get stuck, read blogs, reach out to mentors, ping other contributors, and chat in IRC channels. Ask! Do not stop yourself if you find it difficult at first. Keep reaching out: People are helpful and that is what a community is for.
+
+Make a plan for your employees
+
+Figure out how much time your employees can devote to contributing to a project on a quarterly basis. Take into account your operational needs. Restructure your plan, evaluate your employees' strengths, and put that into a well-documented, rock-solid plan. You're not eliminating all potential for failure, but you’ve taken steps forward towards reducing that. At least now you know you have in put some effort and we know who's accountable for what.
+
+Be transparent and open in your communication
+
+Cultivate an environment that demonstrates respect by acknowledging successes and important contributions. Set examples. Showcase talents.
+
+Do it often and do it regularly.
+
+4 ways to get started
+
+Encourage sharing
+
+Encourage employees to share with others what they are learning and how they are overcoming hurdles that they come across in their projects. Ask them to create blog posts that you can showcase on your website and share with the community. This in turn will help you to interact with other contributors from the community, provide help for newbies, and attract others.
+
+Host events
+
+Host talks and sessions online as webinars or meetups. Arrange code sprints. This helps both your cause and the community, too. If you have space for a meetup that you aren't using, lend it to groups who need it.
+
+Speak out
+
+Represent your company at events by giving talks and participating in conversations. Networking cannot be underestimated.
+
+Promote your contributions
+
+Be present on the social media. Share your accomplishments, blog posts, announcements, and more where your community lives online.
+
+Neeraj Kumar - Neeraj works with Valuebound as Chief Engagement Officer. He been using Drupal from 2008 and recently written book on Drupal 8 Development, beginners guide. His responsibility also includes, how team at Valueboud keeps contributing back to Drupal consistently. Right now Valuebound is ranked among the top three Drupal service providers in the world at Drupal.org marketplace based on contribution made to community.

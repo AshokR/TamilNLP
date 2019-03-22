@@ -1,0 +1,20 @@
+In January 2013, I started exploring open source solutions to help implement my business idea. I used Wordpress, Joomla, and OpenShift to create FilmBoxFestival, a platform for streaming documentary films.
+
+I created, validated, and gained traction for my busines idea due to the speed which these open source tools offered. So, if you're an entrepreneur, I encourage you to explore open source possibilities. Here are some of the things I learned.
+
+Identify feature sets for functionality
+
+Open source solutions are modular in nature. Often, by breaking down the final product into smaller features it becomes easier to find modules and plugins with the functionality you want. For example, one of the features I wanted to implement for FilmBoxFestival was greater interactivity between readers. Instead of looking for one plugin to do this, I broke it down into a separate set of features, such as sharing and discussion forums, then I was able to find individual plugins for sharing and discussions because open source broadened the choices of solutions available and provided off-the-shelf options to create the solution I wanted.
+
+Look for new tools
+
+Always be on the lookout for new plugins, tools, and approaches to implementing the features you want for your business. The open source community is very active, and new solutions are always being developed. For example, with FilmBoxFestival I wanted an integrated payment system which showcased preview videos and allowed buyers to watch the documentaries they have purchased. I searched for over 3 months for a payment solution with these features before I came across Gumroad, a service designed for streaming content that also emails a secure and accessible link to the buyer.
+
+Document, backup, and test at every step
+
+Because open source solutions are so flexible and modular, it is possible for the functionality to break when modules are installed that have similar or complimentary functionalities. It is imperative that you discipline yourself into documenting, backing up, and testing your web solutions as you go. On at least two occasions I had to rebuild FilmBoxFestival from scratch. On both occasions I was able to recreate the website in under a day because of my systematic approach to documentation, recovery, and testing. Similarly, some plugins I installed worked on one browser but did not work on another. It was only by testing that I found the fault and was able to contact the plugin creator; then we began working on a solution.
+
+While I was building and developing my business, the open source community provided excellent technical support and documentation. As an entrepreneur, open source solutions present a unique opportunity to develop your business in a cost-effective, rapid, and efficient manner.
+
+Nabeel Hussain - Nabeel leverages 8 years in business, innovation, and technology to develop and market new products and ideas. He has strategized and developed multiple new technology products for an identified target market of $45 M, including driving ClarySolar’s online business by $3.2 million for the year. He believes open source offers a world of opportunity for entrepreneurs due to its community support and range of products. He runs www.innovateto.com
+

@@ -1,0 +1,31 @@
+Did you land on this story looking for advice on how to start contributing to open source? There are tons of these stories on the interwebs, aren't there? And I am sure you must have read a lot of them by now, because you've been trying to start contributing for quite some time. Maybe you still feel like you've not progressed at all.
+
+I get that feeling. I was in the exact same position until a few weeks ago. Let me tell you my story.
+
+Bumping around in beginner land
+
+I'd been trying to contribute to open source for about two years. Yes. Two years. And there's one thing I can tell you with a lot of certainty—it is intimidating. It's tough to get started. You have to learn how to work within a large code base. You have to learn and adhere to a project's coding style guides. Nothing makes sense: the control flow, how different modules interact, how and why the code is organized the way it is—it's all one big maze. You need to muster a lot of courage to ask questions, dive into the code base knowing next to nothing, and keep fighting with it. (This is a generalization about how some projects operate, but many have difficulty making their projects accessible to new contributors.)
+
+I'm just an amateur trying to learn as much as I can. So, I tried to take the easy way in: fixing typos in docs or comments in the code, and doing trivial bug fixes where it was obvious what needed to be changed. I didn't want to ask too many questions or try to understand the code base. Every time I wanted to contribute, I went to GitHub or a bug tracker, and searched for issues labeled easy, beginner, good first bug, low hanging fruit. And after sifting through hundreds of them, I would find something trivial enough to do without any major help.
+
+This worked for a while, until I realized that I could make better use of the skill set I was building. At that point, I'd learned many new things, but I couldn't figure out where to apply them. Just learning without applying counts for very little. I was stuck on a plateau, and I wasn't moving forward at all. Then something happened that made me terribly scared about being a new contributor.
+
+I picked out an issue that seemed easy enough from a large, popular project. I thought it would be better to ask clarifying questions before making any changes, for fear of messing up, so I posted a comment saying that I was a new contributor and asked how a particular piece of text should be altered so as to close the issue. The reply I got was: "If you can't figure out how to make the change, you're not qualified to make the change."
+
+Yikes! This response baffled me. And it ultimately made me even more scared to ask questions when I didn't understand something about a project.
+
+Maybe I wasn't wanted because I didn't know enough? Maybe I needed to work more on my skills instead of asking stupid, lame questions to experienced people who were super busy? This is when my quest for a mentor began too because I felt that maybe if I knew someone with whom I was comfortable asking questions, things would be OK and I could make myself more useful. So I emailed a bunch of people, asking them to help me get started since I was feeling particularly intimidated after the aforementioned experience.
+
+I received a lot of positive replies full of encouragement, but I still didn't find exactly what I was looking for. I felt like I was bumping into a closed environment in the world of open source.
+
+Discovering good first bugs
+
+One fine evening, as I was searching for issues to work on, I landed on a Mozilla project called web-ext, a tool to help test web extensions. I was glad to find a few issues labeled as good first bugs, but none of them were as simple as fixing a small typo. Boy, was I glad about that.
+
+I started working on one of them and quickly realized that I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base, and once I had some sense of what was going on, I asked for more direction. Voilà! I was able to solve the issue after getting all the relevant details I needed. Today, I've opened four pull requests—one merged, and the other two on their way to being merged, and a patch accepted for Firefox.
+
+I'm glad I took the plunge, and I'm glad I didn't back down when it came time to asking relevant questions, even if it meant risking looking stupid. I've learned it's okay to not know everything, and to take one step at a time to learn something new. The folks at Mozilla mentoring me on these issues have been nothing less than super helpful and supportive. They've guided me all the way, taking time out to break things down and explain them in incredible detail. This, despite the fact that they could have just fixed these issues themselves in a few hours instead of spending time mentoring me toward a solution of my own over the course of several days.
+
+Now, I've set up Firefox locally and scour for bugs on Bugzilla every other day.
+
+Shubheksha Jalan - I'm a CS student from India with a keen interest in software development.

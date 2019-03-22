@@ -1,0 +1,17 @@
+How did Linux operating system attract me?
+
+Computers have fascinated me since childhood, but my first encounter—like many others—was not with Linux. For me, it was with Microsoft Paint. Then, many years later in 2011, it was my Wikipedia mentor, Shiju Alex, who introduced me to Linux. Since then, it's been my life!
+
+If I recall correctly, Ubuntu 10.04.4 LTS (Lucid Lynx) was my first distro. It was different, light, and fun. And, I would often switch back to Windows for something, then back to Ubuntu. The smoothness—and having a virus-free environment—was wonderful and enticed me to continue on with Linux. Unlike today, Ubuntu was not a graphic-rich distro at the time. I was coding less than I am today, so I was working more with editing images using GIMP and Inkscape.
+
+Later in 2011, I was in Mumbai for the Wiki Conference India hackathon and got stuck on some jQuery code. I asked someone to help, so he picked up my Windows-based office notebook to look at the code. That person was noted academician and Wikipedian Bob Cummings. After a minute, he looked at me and said, "You are in the wrong OS, boy." On my personal laptop, I was using Linux to create the logo for Odia Wikipedia v.2.0, which is used for Odia Wikipedia, so I defended myself saying, "This is my work computer." He quickly responded, "Well you're in the wrong job, my dear friend."
+
+That conversation stuck with me, and is one I'll never forget because Bob shook me with a feeling that that there exists a better world outside mine. If I am not a part of that, then I am missing something big.
+
+So, in 2012, I joined the Wikimedia Foundation's India Program and moved to New Delhi. That exposed me to more free software activists, and of course Linux advocates. My job demanded me to meet more people; both virtually and in real spaces. I would often bump into someone talking about free software and Linux or someone recommending a specific software program to better do a job without bothering much if a Mac or Windows version is available or not. And slowly, that black window with white text, of the Linux terminal, became home. I worked on fixing bugs with an input method, and I was already working under the guidance of fellow Wikimedian Junaid PV, which helped me create a fresh new input method on MediaWiki. While designing manuals and handouts for new contributors, though Adobe tools were favorite because of the easiness in use, I enjoyed the perfect rendering of South Asian language scripts in Linux based tools.
+
+My Wikipedia mentor, Shiju Alex, was part of my transformation. He is a great free software enthusiast and encouraged me to use Linux again when I had lost the desire! Then, I installed Virtual Box on my Macbook and a lot of free and open source software like LibreOffice, GIMP, Inkscape, and my favorite, Audacity.
+
+Today, I use Ubuntu 14.04.2. At work, my colleagues Sunil Abraham and Rahimanuddin Shaik are a resorvoir of inspiration. The difference with Linux is there is a feeling of contributing something back to the hand that feeds you.
+
+Subhashish Panigrahi is the Asia Community Catalyzer at Mozilla's Participation team. Earlier with Wikimedia Foundation's India Program, he is an India based educator.

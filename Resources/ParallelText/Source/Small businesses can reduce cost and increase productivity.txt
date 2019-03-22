@@ -1,0 +1,41 @@
+Small businesses can reduce cost and increase productivity at the same time!
+
+Is it safe to use? What alternatives do I have? Is it easy to install?
+
+These were some of the questions asked by Amandeep, a New Delhi based owner of a small scale clothing company, when I pitched to him a few open source solutions that could make his day-to-day operations more efficient. For someone without any IT background (but a sharp business sense), these were brilliant and relevant questions. The answers to these questions won't just help Amandeep, but if shared broadly may help reduce the apprehension of a significant number of small scale business owners, especially in India. My interactions have shown that a lot of these businesses are looking to grow, enhance their productivity, and most importantly, save costs.
+
+Approximately 7,500 miles away from Amandeep in New Delhi lives Nabeel Hussain. Nabeel, a graduate of Conrad Business, Entrepreneurship and Technology Centre, is a new product development and digital marketing specialist actively engaged in Waterloo, one of the top entrepreneurial ecosystems in the world. As an entrepreneur, he is always faced with the challenge of managing limited resources while building traction. He has a plethora of technology solutions at his disposal, and the technical know-how to utilize these solutions. Additionally, he has a robust support system to advise and guide him to the best available solution that fits his needs. For Nabeel, open source solutions provide an inexpensive alternative for crafting early stage prototypes for his ideas and validating them with customers. From using WordPress and its library of plugins, to venturing into OpenShift Origin and Joomla, he has the knowledge to make use of top notch technology to reduce risk, manager resources, and build traction for his venture.
+
+These two different scenarios indicate a categorical gap in the knowledge of entrepreneurs when it comes to adopting open source solutions. Although there is some geographic gap between the entrepreneurs in the developed and the developing world, as well as a gap that spawns from business exposure/experience, the problem is wider than that. There is a difference in productivity and efficiency between entrepreneurs who utilize open source solutions and those who do not. The situation becomes clear when we look at those small scale business owners who are technology pros versus those who are not.
+
+A significant number of businesses, in India in particular and in the developing world in general, are of a mom-and-pop business nature. Based on my recent interactions with these small scale business owners, I see widespread misconceptions pertaining to open source software. The questions that Amandeep from New Delhi asked me are critical in nature. In order for small scale businesses to adopt open source solutions, it is vital to address these misconceptions.
+
+Is open source software really safe?
+
+The question arises from the basic process that is followed to write code using open source way. If any hacker can read your code, then why can't they use the knowledge to their personal benefit? Most of those sorts of malicious attempts fail because there are a lot of committed people looking over the source code, finding problems, and fixing them. More eyes tame bugs quickly. And security by obscurity is no security at all. What strikes me at this point of time are the words of security expert Bruce Schneier, "Public security is always more secure than proprietary security…For us, open source isn't just a business model; it's smart engineering practice."
+
+Developing code in an open source fashion is an expression of a technique. Software, in our world, should be treated as a service which can be customized based on the specific needs of a user, rather than merely as a product.
+
+I know a lot of people involved at different levels of open source projects. All of them are driven by their commitment to reach technical and professional excellence, and to add to the existing body of technology knowledge. The entire ecosystem of open source is built on that commitment. The Linux operating system, for example, with its proven track record of stability and security, forms the backbone of complex infrastructures and data centers world over. The same benefits that help Linux and other open source tools succeed at the enterprise level can be reaped by small businesses, too.
+
+Are there quality alternatives available?
+
+Gone are the days when open source was produced only by the engineers, for the engineers. From word processing to calendar applications to servers and to setting up telephone communication networks, small businesses can benefit hugely from open source solutions. Let us take the example of word processing, an activity that almost all small businesses, irrespective of their field, carry out.
+
+Microsoft Word is the premium software in the area but it is cluttered with features that a lot of small businesses won't ever use. There are easy to use, simple, free, and open source word processors available out their. A few of these that I have been using (and suggesting to small businesses) as an alternative to Microsoft Word are:
+
+AbiWord: Developed in 1998 with the help of gtkmm, this open source word processor includes both simple word processing features to sophisticated features like multiple views, page columns, and grammar checking.
+LibreOffice:This is my favorite and always at the top of my recommendation list for anyone looking for a free and efficient word processing suite. This software consists of all the tools for managing office tasks, namely: word processor, spreadsheet tool, multimedia presentations, diagrams and 3D applications, database tool, and creating mathematical equations. LibreOffice is in the forefront when it comes to community support.
+
+There are dozens of other excellent alternative solutions to proprietary software and thousands of open source projects that can serve small businesses. It can sometimes be difficult to select the software which best matches specific needs, but there are plenty of people globally willing to help you make those decisions and help take small businesses down the path to an open and productive future.
+
+User questions and answers:
+
+What about alternatives for Sharepoint, Exchange, SQL server, Windows server, ASP, etc. Small businesses pay a fortune for this stuff!!
+
+Depending on the features you use from Sharepoint, some of the open source and enterprise web content management systems could do the job too (Drupal, eZ Publish...).
+Postgre SQL could replace SQL server or Oracle in a lot of cases. Windows server, well... if you are not running specific Windows software, the server versions from Ubuntu and other distro's can do that job too. Or get enterprise support by using RHEL from Red Hat.
+A proprietary DMS could be replaced with Alfresco, an open source solution for an Enterprise Service Bus could be Mulesoft. Exchange can be replaced by Zimbra, or any other mail server of groupware like software (Zarafa is another groupware option).
+As for managing the company they could look at Odoo and for project management ProjectLibre.
+
+A great way to get up and running with open source software I could recommend is looking at turnkeylinux. It does a great job at packaging over a hundred server software such as Drupal, WordPress and File Server and make it easy to install them. 

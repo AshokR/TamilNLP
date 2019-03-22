@@ -1,0 +1,84 @@
+Around a year ago, a school in the southeast of England, Westcliff High School for Girls Academy (WHSG), began switching its student-facing computers to Linux, with KDE providing the desktop software. The school's Network Manager, Malcolm Moore, contacted us at the time. Now, a year on, he got in touch again to let us know how he and the students find life in a world without Windows.
+
+Stu: Hi Malcolm, thanks for agreeing to the interview. Could you tell us a bit about the school and your role there?
+
+Malcolm: Westcliff High School for Girls Academy is a selective Grammar School with a Sixth Form of about 340 students. It was founded in 1920 as a co-educational school in Victoria Avenue, Southend, and moved to its present site in 1931. Since then the school has grown to its present size of around 1095 girls.
+
+The IT Support department consists of three staff: myself, Paul Antonelli, and Jenny Lidbury. My role is that of Network Manager. The IT Support department covers provisioning and support of all IT-related equipment within the school. This includes 200 teacher machines, 400+ student machines, 33 IMacs, 100+ laptops, and a few Android tablets. We also support all the multimedia devices such as projectors, interactive whiteboards, and TVs, etc.
+
+Stu: Whose idea was it to switch computers over to Linux? What were the reasons for doing so?
+
+Malcolm: We have used Linux as the OS for our email server, VLE (Virtual Learning Environment) and website for a while since I had used it before at my previous position in the financial industry.
+
+It was my idea to move the students' PCs to Linux as it was becoming increasingly obvious that with the size, cost, and complexity of IT increasing seemingly exponentially, ultimately something had to give and professional pride would not let it be the quality of the systems we support. We tested a small set-up of 60 machines and got feedback from the students, adjusted it a bit and then tried again and so on. Once we had gone through this loop a number of times with Red Hat/Fedora and SUSE/openSUSE set-ups and we were satisfied, I put my proposal to the Senior Leadership Team.
+
+The motivation was initially both cost and philosophical, in that, even in an outstanding school, funds are always going to be limited (politicians don't seem to get the saying: 'If you think education is expensive, try ignorance'). The cost of using Windows is high but not always obvious, Windows carries a lot of baggage that bumps the cost up considerably over a Linux environment. The philosophical angle was probably the philosophy of pragmatism.
+
+We wanted to offer the best IT systems and education possible with the funds available. Money spent on essentially promoting Microsoft Windows and Office to students can be better spent on old-fashioned things like teachers and actual education.
+
+Subsequently and fortuitously, the UK government threw out the old ICT syllabus, which was based largely on teaching students how to use Microsoft Office, and told schools to go for a more computer studies-based syllabus, which meant that we were in a position to hit the ground running, so to speak.
+
+Stu: Was there any resistance to the idea and how was this overcome?
+
+Malcolm: Surprisingly, very little. The Senior Leadership Team grilled me in two long meetings which was fun!
+
+Once you actually take a step back from the misconception that computers = Windows, and actually seriously think about it, the pros clearly outweigh the cons. The world is changing very quickly. There is a survey that reports in 2000, 97% of computing devices had Windows installed, but now with tablets and phones, etc., Windows is only on 20% of computing devices, and in the world of big iron, Linux reigns supreme. We specialize in science and engineering and want our students to go on to do great things like start the next Google or collapse the universe at CERN. In those environments, they will certainly need to know Linux.
+
+Stu: What choices did you make for the software and why? Was any new hardware needed?
+
+Malcolm: We started out with the basic theory that the students had to like the interface, so 'pretty is a feature' was required for the workstations. For IT staff, stability is practically everything for the servers. Whilst I know there are many people who have favorite distributions, I only really know the RPM-based ones. If we had more resources, we could have looked at more, but we only tried Red Hat/Fedora and SUSE/openSUSE combinations. In the end, the SUSE/openSUSE won because of their KDE software support. Firstly, we did not want the change to be too much for students to handle and KDE's Plasma can be made to look very familiar. Secondly, during our testing, we encouraged students to try both KDE Plasma and GNOME. Plasma was by far the winner in terms of user acceptance. [The final software choice was openSUSE 12.2 and Plasma Desktop 4.10 - Ed].
+
+As far as the workstations go, no new hardware was required. One of our main reasons to go to Linux was that it runs well on older hardware. The usual merry-go-round of replacing 400 student machines every three or four years is a horrendous cost.
+
+Many schools just simply can't afford that in these days of austerity. With the performance we have now, I intend to run these machines until they fall to bits! I would suggest to anyone however that they make sure they have a good network before embarking on this.
+
+Stu: How did the switch-over go? Were there technical problems and how were they overcome?
+
+Malcolm: The switch-over was done during the summer holiday of 2012. At that point we encountered no significant technical issues, although that isn't to say we didn't have any later!
+
+Stu: Was there any software missing compared to the old systems?
+
+Malcolm: We currently have students running Linux and staff running Windows 7. If there were a SIMS (Schools Information Management System) client for Linux, converting the whole school could easily have been considered. As it stands, that could have easily been an overreach. Nothing is missing as far as educational software for Linux, but we have retained a couple of Windows applications which we run under WINE so that students with work in progress can move slowly to alternative applications.
+
+One thing that is interesting is the use of the Raspberry Pi and the suchlike in schools. The Pi team stated that one advantage of using the Pi is that students can experiment without destroying the school or family PCs. With Linux, students can experiment now.
+
+Our ICT department is already teaching programming to students from year seven [around age 11], and in our environment, the worst thing they can do is crash their own account. Even if they completely destroy their area, it can be restored in minutes and will not affect the next person using the machine.
+
+Stu: Did you contact KDE or openSUSE for assistance? If so, how was the response?
+
+Malcolm: I have frequently contacted both KDE and openSUSE through the forums and bugzilla sites; both were exceedingly helpful. openSUSE forums can be a bit hostile at times when others think the questions are poorly worded or not well thought out. This, happily, is not the case in KDE forums where everyone has been very polite and helpful. In openSUSE's defense, some of the questions I posted were not done well. However, as I said before, there are only three of us and sometimes RTFM isn't an option.
+
+There just aren't enough hours in the day. If I can post something and get an answer even if it seems dumb to others, it is a great help. If we had to learn everything about Linux, this project would never have happened, we would still be RTFM! Despite being called an idiot occasionally, we got good working answers to all our questions, so I can thoroughly recommend the forums even if it is necessary to be a bit thick-skinned at times.
+
+Stu: What do the students, parents, and staff think of the change?
+
+Malcolm: Younger students accept it as normal. Older students can be a little less flexible. There are still a few that are of the view that I can get rid of Microsoft Word when I can pry it from them. Staff are the same (although it is surprisingly not age-related). Some are OK and some hate it. Having said that, an equal number hate Windows 7 and nobody liked Windows 8. I think the basic problem is that Windows XP is a victim of its own success. It works fairly well from a user point of view, it's been around practically forever, and people don't like change, even some students, oddly.
+
+Once we decided to go ahead, a special newsletter was sent out to all parents. We probably had less than half a dozen who disagreed, maintaining that learning Office was a more useful skill. Whilst I accept their views, I would argue that an 11 year old student starting with us in September 2014 will probably not reach the job market until 2024 or there about. What will Office 2024 look like? Your guess is as good as mine, but good basic skills and a logical and analytical way of dealing with computers will be good for a lifetime.
+
+Stu: One year on, what worked and what didn't? What would you do differently or advise another school to do differently?
+
+Malcolm: It would have been nice to say it all worked perfectly, but it didn't. The first half term was terrible. The primary problem was system speed and particularly logging into KDE Plasma. Our tests only had 60 or so machines in use as it was difficult to round up enough students at lunchtime and after school to really thrash the system. Plus, while we were testing, we were still having to maintain the 400 student Windows XP machines.
+
+The bottom line is that Linux will run well on an old tin box, but if you have LDAP authentication and NFS home directories—as you certainly will have in a school or business environment, you must have a gigabit network. It will run with 100Mb, but it will be an unpleasant experience as we discovered to our cost. To that end, we had to replace about eight switches to bring our whole network up to gigabit everywhere (OK, it was planned to happen anyway, but I would have rather done it at my leisure!).
+
+Additionally some things in KDE software do not lend themselves well to having NFS home directories, although I know it has been addressed to some extent in later versions. We now have several scripts that we run on our servers that force some KDE options to take the load of our network Once we had worked all this out and fixed it over the next half term holiday things quieted down a lot thankfully.
+
+Stu: How could KDE make such a switch easier?
+
+Malcolm: Documentation! You can configure KDE in every way imaginable using the GUI, but admins need to set up defaults for all users. The openSUSE defaults are OK for home or stand-alone users, but they need a bit of adjustment in a school. In the end we did it by taking a basic machine, making a change and then going through the dot files to see what had been affected (this and bothering Ben Cooksley in the KDE forums). It was hard work! The problem here—and I'm not sure there is an easy answer—is that with Linux, and now to some extent with Windows, the technology moves so fast that documentation is out of date before it's printed or even written in some cases.
+
+Stu: Which applications (KDE or otherwise) have been particularly impressive? In which areas are applications lacking?
+
+Malcolm: With the exception of about half a dozen students who are using GNOME, everybody loves the fact that now they can configure their desktops and applications. Most admins lock down Windows as it is fairly easy for people, particularly students, to butcher Windows.We have taken the view that we want to get back to a PC being a personal computer, so students can configure it any way they like as it gives a sense of ownership of their desktop. We have restrictions on configuring a machine inappropriately or in a way that is detrimental to work. Students generally get one desktop reset before we will 'have words'. Allowing this is a novel idea in schools. In the beginning, some of the desktops were configured to destruction! Now that the novelty has worn off the desktops are more sane, and we haven't had to reset an account back to a more tasteful blue in months. In this respect, it is a great success as students are now taking responsibility for their work environment and how they achieve tasks rather than be told, "Here is a generic Windows and Office. Use that."
+
+Stu: Any other comments or observations on the experience?
+
+Malcolm: Has it given me sleepless nights, yes. Has it nearly driven me insane, yes. Would I do it again... in an instant!
+
+Stu: Thank you very much and best of luck in the future! 
+
+The example of Westcliff High School for Girls Academy gives us plenty to think about. Linux, with KDE software, can clearly work in such an environment, but there are still challenges in deployment and getting used to a new system. Malcolm's experiences underline the importance of the KDE forums in welcoming and supporting new users to bring free software to ever larger audiences.
+
+Stu Jarvis started using KDE software in 2003 and began working with the KDE Promotion Team in 2008 by writing articles for KDE's news website, KDE.News. He gradually got drawn into greater involvement with the promotion team activities such as writing KDE's release announcements became an editor with KDE.News in 2009. In 2010 he became a member of KDE e.V. and KDE's Marketing Working Group. He represented KDE in the EU-funded ALERT research project for its duration from 2011-2013.
+

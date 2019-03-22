@@ -1,0 +1,39 @@
+I work for a private ISV and consultancy company focused on delivering software products for financial institutions. Three years ago my company decided to share our achievements and knowledge by publishing our application, FinTP, for processing financial transactions under an open source license.
+
+Here, I will explore the changes a company has to undertake when embarking on the transition from a traditional business model to a business model that supports open source. This is based on nine years of experience with a once commercially-available solution. The motivation for a transition like this comes from our company's ambition to be in a position of leadership in this changing and challenging industry.
+
+
+The culture of sharing in open source is our way forward, because we believe that by collaborating with the brainpower of an entire community of professionals that share the same values as us, we can deliver the best results. Recent studies on the financial industry say that by using open source, companies are able to collaboratively develop non-differentiating software for processing transactions or regulatory compliance, which is the plumbing and framework that all financial institutions need.
+
+First, we selected the principles that would guide the team and chose an open source license. Then, we established the right kind of environment around the project by encouraging positive conditions for both for the current client base and for the potential community and user base. This helped us begin to attract contributors and adopters to the project.
+
+Publishing our application as an open platform has impacted the core business and operational workflow of the company, thus drastic changes had to be made. The FinTP project and the community built around it had to receive more attention than the commercially available product because of the need to invest in developing and maintaining the project as well as actively integrating new members into the community.
+
+Here's how we did it.
+
+Adapt the proprietary solution
+
+The requirements that an open source application has to satisfy are clear, but achieving them is thought-provoking. One of the most important changes than needs to be dealt with has to do with support for third party embedded products. Previously, only enterprise versions of prerequisites were supported so a rework was mandatory. The open source version supports the best open source alternatives for the enterprise database, message oriented middleware, and application server. All code included in the application must be compliant with the licensing requirements in order to be publishable. Also, open source alternatives for the internal developer tools, work item tracking, and source control systems have to be integrated.
+
+In regards to product documentation and working procedure, the naming conventions, coding guidelines, and best practices implemented in the commercial version have to be adapted to address the specific needs of working within an open community. We found it necessary to include one more step in the preparation phase of publishing the product as open source: we shared FinTP on fintp.org, a platform with controlled access which allows us to fine-tune the community rules, processes, and product before posting it to an open source repository.
+
+Build the open source community
+
+When transitioning a closed-source product to an open source one, building a strong, vibrant community is the most important part. First, lets look at the differences between a closed community and an open one. An open community is comprised of reward-earning contributions made by anyone, from all community members. The code is open to inspection so anyone can fix problems, develop new features, and contribute code back, in a moderated form. For any given problem, there is the possibility of a large number of eyeballs viewing it. A closed community is comprised of the provider and the client base, and the maximum number of people looking at any given problem is always limited by the total number of employed developers.
+
+In the early stages of our transition from a closed community to an open one, we were running a tight ship: we were the only ones responsible for keeping pace with the evolving standards of the financial industry, developing major new functionality, and reviewing contributed code. Over time, based on the value of contributions, new hierarchies emerged. Every member has these advantages in our open source community: the power to influence projects, attract and retain development talent, reduce development and maintenance cost.
+
+ Change the business model
+
+A traditional business model is based on revenue through selling software licenses, maintenance fees, and professional services. This is disrupted when the decision is made to publish the main product as free and open source. We had the opportunity to benefit from a year-long consultancy program for FinTP, co-financed by a prestige International Financing Institution.
+
+For the business, the goal was to establish a new business model and workflows, adapt internal processes, adapt organizational structure. For the community, the goal was to propose a governance structure, with legal aspects, working processes, and marketing materials.
+
+The FinTP project is now setup to provide these building blocks for processing financial transactions for banks, corporations, public administrations, and micro-financing institutions:
+
+Help consolidate business work flows
+Create flexible interfaces for various market infrastructures
+Process various kinds of funds transfers (such as credit transfer, direct debit, debit instruments, treasury flows) while providing safe operations and duplicate detection
+Gain several operation functionalities (such as liquidity reporting, accounting reconciliation, AML transactions filtering, remittances management, and competitive reports)
+
+Mihai Guiman - I have a deep technical background in architecting, implementing and managing critical software solutions for the backoffice environment of financial institutions, with expertise in integration with Swift, financial messaging standards and various technologies. I'm motivated to extend my professional profile by participating at complex technological projects, having a born ambition to deliver more than against set goals. In my spare time I enjoy skiing and reading fiction novels.

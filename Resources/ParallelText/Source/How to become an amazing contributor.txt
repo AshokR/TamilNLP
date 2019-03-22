@@ -1,0 +1,42 @@
+It's a busy morning here in New York City. My email inbox is full of pleasant surprises. The first is a patch for one of my open source projects. A second will appear this afternoon. A third should come late at night—or maybe tomorrow–from a new contributor.
+
+Alongside my day job, I contribute and manage open source projects. The number of projects I work on has grown from a couple of small tools to well over a dozen in the last three years. Open source has become a great way to learn new technology, experiment with modern software development practices, and, of course, meet other like-minded engineers. I find that seeing great contributors send working and tested code provides a unique feeling of accomplishment, as powerful as having many satisfied users of my own applications or strong revenues posted by the employer that pays my bills.
+
+I asked the three engineers who sent patches in the past few months to tell me more about their story. First, I wanted to know what motivated them to contribute.
+
+Nicolas Guillaumin works on the R&D team of Funnelback, a search engine technology and services company located in Dickston, Australia. My first connection with Nicolas began as a comment for WAFFLE workitem #8559:
+
+"Please find attached a patch. I've done a basic implementation of … [this thing that everybody wanted and nobody cared to implement].
+
+I asked Nicolas to explain what pushed him to become a contributor:
+
+"We were investigating porting our web application from Perl to Java and we needed a way to replace some features provided by IIS like SSO and impersonation. We came across various possible solutions for authentication such as Spring Security and JAAS but WAFFLE seemed the simplest and cleanest one. Moreover it's the only one that had impersonation support, at least on the low level APIs, and extending it to implement impersonation in a Servlet filter seemed easy enough. Contributing was also straightforward: the framework is small, simple to understand and well documented."
+
+Rami Abughazaleh works for NovaStor, a backup software and data protection company with an office in Agoura Hills, California. Today, he commits to several related open source projects in the Windows deployment space, including dotNetInstaller, a popular bootstrapper for Windows.
+
+"We use dotNetInstaller in production and needed a few bug fixes and a couple more features. At first I felt grateful to find an open source solution that met all the requirements for my employer, which in turn made me look good at my job. Then, I wanted to contribute some of my time to thank the people and the community that started and continue to improve the project. I also had a personal quest to learn and gain more experience with various new tools."
+
+Neil Sleightholm runs X2 Systems Ltd., which provides IT consultancy in Southwest England. He has notably implemented install-time permissions elevation in dotNetInstaller (#7968).
+
+"The project did 95% of what I needed; commercial applications either fell short or were too expensive for the small part of them I wanted. It seemed cost-effective to spend my time adding the features I required. The quality of the code impressed me, so I knew that it was worth investing effort to get a reliable system. In particular, I don't think I have ever come across a project (open source or commercially developed) that had such a sophisticated unit test program. This meant I felt confident to add features without breaking existing code. Plus, the project co-ordinator was willing to assist with programming issues."
+
+These are good stories! But what made Nicolas, Rami, and Neil great contributors? I thought about this a while, and considered what they had said, what I think when I'm contributing, and what I've seen happen in communities like these.
+
+I came up with a list of the things that I value most in contributing engineers. Displaying these qualities will make you an excellent—and likely well-received--open source developer.
+
+Have a real problem to solve, business need, or some type of commercially-driven motivation.
+Understand the goals of the project and make sure your contribution is in line with them.
+Submit complete patches that implement full features. Include any test information and documentation.
+Play by the rules of the project that you're contributing to.
+Be humble. Never add your name to the list of contributors yourself—the project leader should do so, if she or he values your work.
+Have low expectations. Learn to accept rejection.
+Persevere. Improve upon comments and keep sending updates.
+Be honest and vocal about your available time and skills.
+Be a doer, not a talker or a troll.
+Finish what you started, don't give up.
+
+This is my list of core values that I encourage my contributors to cultivate.
+
+About the original author
+
+Daniel Doubrovkine - Head of Engineering @artsy.
