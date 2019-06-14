@@ -16,19 +16,8 @@
 #### [தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும் – கணினி நுட்பம்](http://freetamilebooks.com/ebooks/future_of_tamil_and_information_technology/)
 #### [திறந்த மூல மென்பொருளில் முதல் அடி எடுத்து வைக்கலாம் வாங்க!](http://freetamilebooks.com/ebooks/take-first-steps-for-open-source-software/)
 #### [எளிய தமிழில் Agile/Scrum – மென்பொருள் திட்ட மேலாண்மை](http://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil/)
+#### [எளிய தமிழில் CNC](http://freetamilebooks.com/ebooks/cnc)
 
-**இயந்திரவியல் கட்டுரைகள்**:
-#### [பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 1](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-1-7f4b37eeea8c)
-#### [பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 2](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-2-478e4b674186)
-#### [பொறியியல் வரைபடம் (Engineering Drawing) - பாகம் 3](https://medium.com/@IyalMozhi/பொறியியல்-வரைபடம்-engineering-drawing-பாகம்-3-47331fe4a840)
-#### [கடைசல் இயந்திரம் (Lathe)](https://medium.com/@IyalMozhi/கடைசல்-இயந்திரம்-lathe-7b7aea1809c8)
-#### [பொறியியல் வரைபடம் - திறந்த மூல லிபர்கேட் (LibreCAD)](http://www.kaniyam.com/engineering-drawing-open-source-librecad/)
-#### [துருவல் இயந்திரம் (Milling machine)](https://medium.com/@IyalMozhi/துருவல்-இயந்திரம்-milling-machine-4ac7420e06e2)
-#### [வரம்புகள், பொருத்தங்கள் மற்றும் பொறுதிகள் (Limits, Fits and Tolerances)](https://medium.com/@IyalMozhi/வரம்புகள்-பொருத்தங்கள்-மற்றும்-பொறுதிகள்-limits-fits-and-tolerances-f767a2d7d8a8)
-#### [உலோக வெட்டல் மூலப்பொருட்களும், வெட்டுளிகளும், வெட்டு வேகங்களும்](https://medium.com/@IyalMozhi/உலோக-வெட்டல்-மூலப்பொருட்களும்-வெட்டுளிகளும்-வெட்டு-வேகங்களும்-41766fffdf25)
-#### [கயெக (CNC) எந்திர அடிப்படைகள்](https://medium.com/@IyalMozhi/கயெக-cnc-எந்திர-அடிப்படைகள்-30a2ffa8c410)
-#### [கயெக கடைசல் இயந்திரம் (CNC Lathe)](https://medium.com/@IyalMozhi/கயெக-கடைசல்-இயந்திரம்-cnc-lathe-aa29482d3998)
-#### [கயெக துருவல் இயந்திரம் (CNC Milling Machine)](https://medium.com/@IyalMozhi/கயெக-துருவல்-இயந்திரம்-cnc-milling-machine-6d9232eff2bd)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
