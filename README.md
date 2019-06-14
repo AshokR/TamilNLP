@@ -18,6 +18,8 @@
 #### [எளிய தமிழில் Agile/Scrum – மென்பொருள் திட்ட மேலாண்மை](http://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil/)
 #### [எளிய தமிழில் CNC](http://freetamilebooks.com/ebooks/cnc)
 
+**என் கட்டுரைத்தொடர்**:
+#### [எளிய தமிழில் Robotics](http://www.kaniyam.com/category/robotics/)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
