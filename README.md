@@ -13,6 +13,7 @@
 #### [Did Karikala, the 2nd Century Chola king, build the Kallanai dam?](https://medium.com/@IyalMozhi/did-karikala-chola-the-2nd-century-king-build-the-kallanai-dam-f1c76208775f)
 
 **என் மின்னூல்கள்**:
+#### [எளிய தமிழில் Robotics](http://freetamilebooks.com/ebooks/robotics/)
 #### [எளிய தமிழில் CNC](http://freetamilebooks.com/ebooks/cnc)
 #### [தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும் – கணினி நுட்பம்](http://freetamilebooks.com/ebooks/future_of_tamil_and_information_technology/)
 #### [திறந்த மூல மென்பொருளில் முதல் அடி எடுத்து வைக்கலாம் வாங்க!](http://freetamilebooks.com/ebooks/take-first-steps-for-open-source-software/)
