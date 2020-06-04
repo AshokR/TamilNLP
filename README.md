@@ -7,6 +7,7 @@
 #### [அடிக்கடி பயன்படுத்தும் இடைச்சொற்கள் (Stopwords)](https://github.com/AshokR/TamilNLP/wiki/Stopwords)
 #### [சொற்பிழைத்திருத்தி](https://github.com/AshokR/TamilNLP/wiki/Spell-Checker)
 #### [ஒமேகா-டி (OmegaT) கணினி உதவி மொழிபெயர்ப்புக் கருவி](https://github.com/AshokR/TamilNLP/wiki/OmegaT-Computer-Assisted-Translation-tool)
+#### [நிகழ்வெண் பட்டியல் (Frequency list)] (https://github.com/AshokR/TamilNLP/wiki/நிகழ்வெண்-பட்டியல்-(Frequency-list))
 
 **என் ஆங்கில வலைப்பதிவுகள்**: 
 #### [What has a 8th century Tamil writer got to do with The Book of Eli?](https://medium.com/@IyalMozhi/what-has-a-8th-century-tamil-writer-got-to-do-with-the-book-of-eli-d9c79abd8924)
@@ -21,6 +22,7 @@
 
 **என் கட்டுரைத்தொடர்**:
 #### [எளிய தமிழில் CAD/CAM/CAE](http://www.kaniyam.com/category/cad-cam-cae/)
+#### [எளிய தமிழில் IoT](http://www.kaniyam.com/category/iot/)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
