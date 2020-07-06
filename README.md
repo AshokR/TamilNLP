@@ -23,6 +23,7 @@
 **என் கட்டுரைத்தொடர்கள்**:
 #### [எளிய தமிழில் CAD/CAM/CAE](http://www.kaniyam.com/category/cad-cam-cae/)
 #### [எளிய தமிழில் IoT](http://www.kaniyam.com/category/iot/)
+#### [எளிய தமிழில் Computer Vision](http://www.kaniyam.com/category/computer-vision/)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
