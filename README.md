@@ -17,7 +17,7 @@
 #### [எளிய தமிழில் Robotics](http://freetamilebooks.com/ebooks/robotics/)
 #### [எளிய தமிழில் CNC](http://freetamilebooks.com/ebooks/cnc)
 #### [தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும் – கணினி நுட்பம்](http://freetamilebooks.com/ebooks/future_of_tamil_and_information_technology/)
-#### [திறந்த மூல மென்பொருளில் முதல் அடி எடுத்து வைக்கலாம் வாங்க!](http://freetamilebooks.com/ebooks/take-first-steps-for-open-source-software/)
+#### [திறந்த மூல மென்பொருளில் முதல் அடி எடுத்து வைக்கலாம் வாங்க! (தமிழாக்கம் செய்தது)](http://freetamilebooks.com/ebooks/take-first-steps-for-open-source-software/)
 #### [எளிய தமிழில் Agile/Scrum – மென்பொருள் திட்ட மேலாண்மை](http://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil/)
 
 **என் கட்டுரைத்தொடர்கள்**:
