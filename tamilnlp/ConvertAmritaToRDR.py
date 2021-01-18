@@ -114,13 +114,16 @@ def _convert_amrita_to_rdr(string):
     string = re.sub(r'(?<=[\u0B80-\u0BFF] [\u0B80-\u0BFF]{0})', '???', string)
 
     return string
-'''
-converted_text = _convert_amrita_to_rdr(input_text)
-print(converted_text)
-'''
-f = open('Balanced_corpus_train.txt', 'r', encoding='utf-8')
-old_text = f.read()
-new_text = _convert_amrita_to_rdr(old_text)
-fw = open('Balanced_corpus_rdr_train.txt', 'wt', encoding='utf-8')
-fw.write(new_text)
+
+def convert_amrita_to_rdr(sourcefile='Balanced_corpus_train.txt',destfile='Balanced_corpus_rdr_train.txt'):
+    '''
+    converted_text = _convert_amrita_to_rdr(input_text)
+    print(converted_text)
+    '''
+    with open(sourcefile, 'r', encoding='utf-8') as f:
+        old_text = f.read()
+        new_text = _convert_amrita_to_rdr(old_text)
+        fw = open(destfile, 'wt', encoding='utf-8')
+        fw.write(new_text)
+    return
 
