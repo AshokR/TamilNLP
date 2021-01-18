@@ -25,6 +25,7 @@
 #### [எளிய தமிழில் CAD/CAM/CAE](http://www.kaniyam.com/category/cad-cam-cae/)
 #### [எளிய தமிழில் IoT](http://www.kaniyam.com/category/iot/)
 #### [எளிய தமிழில் Computer Vision](http://www.kaniyam.com/category/computer-vision/)
+#### [எளிய தமிழில் VR/AR/MR](http://www.kaniyam.com/category/vr-ar-mr/)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
