@@ -48,6 +48,6 @@ for sent in seg:
 
     # Tag the sentence and write it to the file
     tagged = rdr.tagRawSentence(DICT, sent.encode('utf8'))
-    print tagged
+    print(tagged)
     targetfile.write(tagged + '\n')
 

@@ -28,8 +28,7 @@ def getArticleParagraphs(title):
                 article = article + "\n\n" + paragraph
     return article
 
-f = open('/your/folder/wikisource_content.txt', 'wt', encoding='utf-8')
-def getPagesForTitle(title):
+def __getPagesForTitle(title,f):
     # In the wikiapi.py file change the following two lines
     # api_uri = 'wikisource.org/w/api.php'
     # article_uri = 'wikisource.org/wiki/'
@@ -44,7 +43,12 @@ def getPagesForTitle(title):
         # print(item['title'])
         f.write(getArticleParagraphs(item['title']))
 
-getPagesForTitle('பொன்னியின் செல்வன்')
+def getPagesForTitle(title='பொன்னியின் செல்வன்',outputfile='/your/folder/wikisource_content.txt'):
+    f = open(outputfile, 'wt', encoding='utf-8')
+    __getPagesForTitle(title,f)
+    return
+
+
 
 
 

@@ -28,9 +28,8 @@ def getArticleParagraphs(title):
                 chapter = chapter + "\n\n" + paragraph
     return chapter
 
-articleTitles = []
-f = open('/your/folder/wikipedia_content.txt', 'wt', encoding='utf-8')
-def getTitlesForCategory(title):
+
+def __getTitlesForCategory(title,f):
     # url = 'https://ta.wikipedia.org/w/api.php?action=query&list=categorymembers&cmnamespace=14&cmlimit=500&format=json&cmtitle=Category:வரலாறு'
     # http://ta.wikipedia.org/w/api.php?action=query                # Base Url
     # &format=json                                                  # want data in JSON, default is XML
@@ -38,6 +37,7 @@ def getTitlesForCategory(title):
     # &cmnamespace=14                                               # 14 -  துணைப் பகுப்புகள்; 0 - கட்டுரைகள்
     # &list=categorymembers
     # &cmtitle=Category:வரலாறு                                       #  பகுப்பு = வரலாறு
+    articleTitles = []
     baseUrl = 'https://ta.wikipedia.org/w/api.php?action=query&list=categorymembers&cmlimit=500&format=json'
     # For extracting the Wikisource content
     # In the wikiapi.py file change the following two lines
@@ -79,5 +79,8 @@ def getTitlesForCategory(title):
         cat = item['title'][8:]
         getTitlesForCategory(cat)
 
-getTitlesForCategory('வரலாறு')
-print(len(articleTitles))
+def getTitlesForCategory(category='வரலாறு',outputfile='/your/folder/wikipedia_content.txt'):
+    f = open(outputfile, 'wt', encoding='utf-8')
+    articleTitles = __getTitlesForCategory(category,f)
+    print(len(articleTitles))
+    return articleTitles
