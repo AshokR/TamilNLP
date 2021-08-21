@@ -17,6 +17,8 @@
 **என் மின்னூல்கள்**:
 #### [எளிய தமிழில் Robotics](http://freetamilebooks.com/ebooks/robotics/)
 #### [எளிய தமிழில் CNC](http://freetamilebooks.com/ebooks/cnc)
+#### [எளிய தமிழில் Computer Vision](https://freetamilebooks.com/ebooks/computer_vision/)
+#### [எளிய தமிழில் VR/AR/MR](https://freetamilebooks.com/ebooks/vr_ar_mr/)
 #### [தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும் – கணினி நுட்பம்](http://freetamilebooks.com/ebooks/future_of_tamil_and_information_technology/)
 #### [திறந்த மூல மென்பொருளில் முதல் அடி எடுத்து வைக்கலாம் வாங்க! (தமிழாக்கம் செய்தது)](http://freetamilebooks.com/ebooks/take-first-steps-for-open-source-software/)
 #### [எளிய தமிழில் Agile/Scrum – மென்பொருள் திட்ட மேலாண்மை](http://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil/)
@@ -24,8 +26,7 @@
 **என் கட்டுரைத்தொடர்கள்**:
 #### [எளிய தமிழில் CAD/CAM/CAE](http://www.kaniyam.com/category/cad-cam-cae/)
 #### [எளிய தமிழில் IoT](http://www.kaniyam.com/category/iot/)
-#### [எளிய தமிழில் Computer Vision](http://www.kaniyam.com/category/computer-vision/)
-#### [எளிய தமிழில் VR/AR/MR](http://www.kaniyam.com/category/vr-ar-mr/)
+#### [எளிய தமிழில் 3D Printing](http://www.kaniyam.com/category/3d-printing/)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
