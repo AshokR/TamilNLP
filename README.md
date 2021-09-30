@@ -15,8 +15,9 @@
 #### [Did Karikala, the 2nd Century Chola king, build the Kallanai dam?](https://medium.com/@IyalMozhi/did-karikala-chola-the-2nd-century-king-build-the-kallanai-dam-f1c76208775f)
 
 **என் மின்னூல்கள்**:
-#### [எளிய தமிழில் Robotics](http://freetamilebooks.com/ebooks/robotics/)
 #### [எளிய தமிழில் CNC](http://freetamilebooks.com/ebooks/cnc)
+#### [எளிய தமிழில் Robotics](http://freetamilebooks.com/ebooks/robotics/)
+#### [எளிய தமிழில் CAD/CAM/CAE](https://freetamilebooks.com/ebooks/cad_cam_cae/)
 #### [எளிய தமிழில் Computer Vision](https://freetamilebooks.com/ebooks/computer_vision/)
 #### [எளிய தமிழில் VR/AR/MR](https://freetamilebooks.com/ebooks/vr_ar_mr/)
 #### [எளிய தமிழில் IoT](https://freetamilebooks.com/ebooks/iot)
@@ -25,7 +26,6 @@
 #### [எளிய தமிழில் Agile/Scrum – மென்பொருள் திட்ட மேலாண்மை](http://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil/)
 
 **என் கட்டுரைத்தொடர்கள்**:
-#### [எளிய தமிழில் CAD/CAM/CAE](http://www.kaniyam.com/category/cad-cam-cae/)
 #### [எளிய தமிழில் 3D Printing](http://www.kaniyam.com/category/3d-printing/)
 ---
 Copyright © 2016 இரா. அசோகன்
