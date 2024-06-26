@@ -26,7 +26,7 @@
 #### [எளிய தமிழில் CNC](http://freetamilebooks.com/ebooks/cnc)
 #### [எளிய தமிழில் Computer Vision](https://freetamilebooks.com/ebooks/computer_vision/)
 #### [எளிய தமிழில் VR/AR/MR](https://freetamilebooks.com/ebooks/vr_ar_mr/)
-#### [பேராலயமும் சந்தையும் – எரிக் ரேமண்ட் (தமிழாக்கம்)](http://freetamilebooks.com/ebooks/take-first-steps-for-open-source-software/)
+#### [பேராலயமும் சந்தையும் – எரிக் ரேமண்ட் (தமிழாக்கம்)](https://freetamilebooks.com/ebooks/the_cathedral_and_the_bazaar/)
 #### [தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும் – கணினி நுட்பம்](http://freetamilebooks.com/ebooks/future_of_tamil_and_information_technology/)
 #### [திறந்த மூல மென்பொருளில் முதல் அடி எடுத்து வைக்கலாம் வாங்க! (தமிழாக்கம்)](http://freetamilebooks.com/ebooks/take-first-steps-for-open-source-software/)
 #### [எளிய தமிழில் Agile/Scrum – மென்பொருள் திட்ட மேலாண்மை](http://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil/)
