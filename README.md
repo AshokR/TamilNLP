@@ -14,6 +14,8 @@
 #### [What has a 8th century Tamil writer got to do with The Book of Eli?](https://medium.com/@IyalMozhi/what-has-a-8th-century-tamil-writer-got-to-do-with-the-book-of-eli-d9c79abd8924)
 #### [Did Karikala, the 2nd Century Chola king, build the Kallanai dam?](https://medium.com/@IyalMozhi/did-karikala-chola-the-2nd-century-king-build-the-kallanai-dam-f1c76208775f)
 #### [Who assassinated Aditya Karikalan?](https://medium.com/@IyalMozhi/who-assassinated-aditya-karikalan-911d045af6f8)
+#### [Tamil is one of the few classical languages that continues to be the mother tongue of a large community](https://medium.com/@IyalMozhi/tamil-is-one-of-the-few-classical-languages-that-continues-to-be-the-mother-tongue-of-a-large-885c051bcdf0)
+#### [Far beyond their mandate, Christian missionaries fell for Tamil](https://medium.com/@IyalMozhi/far-beyond-their-mission-christian-missionaries-fell-for-tamil-a38461d2f5d3)
 
 **என் மின்னூல்கள்**:
 #### [எளிய தமிழில் CNC](http://freetamilebooks.com/ebooks/cnc)
