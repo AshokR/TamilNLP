@@ -18,18 +18,21 @@
 #### [Far beyond their mandate, Christian missionaries fell for Tamil](https://medium.com/@IyalMozhi/far-beyond-their-mission-christian-missionaries-fell-for-tamil-a38461d2f5d3)
 
 **என் மின்னூல்கள்**:
-#### [எளிய தமிழில் CNC](http://freetamilebooks.com/ebooks/cnc)
+#### [எளிய தமிழில் Car Electronics](https://freetamilebooks.com/ebooks/car_electronics_in_tamil/)
 #### [எளிய தமிழில் Robotics](http://freetamilebooks.com/ebooks/robotics/)
+#### [எளிய தமிழில் 3D Printing](https://freetamilebooks.com/ebooks/3d_printing_in_tamil/)
 #### [எளிய தமிழில் CAD/CAM/CAE](https://freetamilebooks.com/ebooks/cad_cam_cae/)
 #### [எளிய தமிழில் IoT](https://freetamilebooks.com/ebooks/iot)
+#### [எளிய தமிழில் CNC](http://freetamilebooks.com/ebooks/cnc)
 #### [எளிய தமிழில் Computer Vision](https://freetamilebooks.com/ebooks/computer_vision/)
 #### [எளிய தமிழில் VR/AR/MR](https://freetamilebooks.com/ebooks/vr_ar_mr/)
+#### [பேராலயமும் சந்தையும் – எரிக் ரேமண்ட் (தமிழாக்கம்)](http://freetamilebooks.com/ebooks/take-first-steps-for-open-source-software/)
 #### [தமிழின் எதிர்காலமும் தகவல் தொழில்நுட்பமும் – கணினி நுட்பம்](http://freetamilebooks.com/ebooks/future_of_tamil_and_information_technology/)
-#### [திறந்த மூல மென்பொருளில் முதல் அடி எடுத்து வைக்கலாம் வாங்க! (தமிழாக்கம் செய்தது)](http://freetamilebooks.com/ebooks/take-first-steps-for-open-source-software/)
+#### [திறந்த மூல மென்பொருளில் முதல் அடி எடுத்து வைக்கலாம் வாங்க! (தமிழாக்கம்)](http://freetamilebooks.com/ebooks/take-first-steps-for-open-source-software/)
 #### [எளிய தமிழில் Agile/Scrum – மென்பொருள் திட்ட மேலாண்மை](http://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil/)
 
 **என் கட்டுரைத்தொடர்கள்**:
-#### [எளிய தமிழில் 3D Printing](http://www.kaniyam.com/category/3d-printing/)
+#### [எளிய தமிழில் Electric Vehicles](https://kaniyam.com/category/electric-vehicles/)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
