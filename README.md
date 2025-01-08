@@ -33,6 +33,7 @@
 
 **என் கட்டுரைத்தொடர்கள்**:
 #### [எளிய தமிழில் Electric Vehicles](https://kaniyam.com/category/electric-vehicles/)
+#### [சில்லுவின் கதை – காணொளி - பேராசிரியர் ராஜேஷ் ஜெலே – ஐஐடி பம்பாய் (தமிழாக்கம்)](https://kaniyam.com/category/chip-story/)
 ---
 Copyright © 2016 இரா. அசோகன்
 Licensed under the Apache License, Version 2.0 (the "License");
